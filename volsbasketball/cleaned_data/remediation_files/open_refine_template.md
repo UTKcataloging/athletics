@@ -16,7 +16,6 @@
 <identifier type="local">{{cells["identifier"].value}}</identifier>
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>')}} 
 <titleInfo supplied="yes"><title>{{cells['title_supplied'].value}}</title></titleInfo>
-<titleInfo type="alternative" displayLabel="Cover Title"><title>{{cells['title_alternative'].value}}</title></titleInfo>
 {{if(isBlank(cells['date_text'].value), '', '<originInfo><dateIssued>' + cells['date_text'].value + '</dateIssued><dateIssued encoding="edtf" keyDate="yes">' + cells['date_text'].value + '</dateIssued><publisher>' + cells['publisher'].value + '</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>')}}
 <abstract>{{cells["abstract"].value}}</abstract>
