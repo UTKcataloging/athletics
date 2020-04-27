@@ -4,25 +4,25 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">vols-basketball_1998-postseason</identifier>
+   <identifier type="local">vols-basketball_2002-pre-season</identifier>
    <titleInfo>
-      <title>Tennessee: 1998 Postseason guide</title>
+      <title>Tennessee 2002-03 outlook</title>
    </titleInfo>
    <titleInfo supplied="yes">
-      <title>Tennessee Volunteers basketball postseason guide, 1998</title>
+      <title>Tennessee Volunteers basketball outlook, 2002-2003</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>1998</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">1998</dateIssued>
+      <dateIssued>2002</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">2002</dateIssued>
       <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
    </originInfo>
-   <abstract>Tennessee Volunteers basketball program from 1998.</abstract>
+   <abstract>Tennessee Volunteers basketball program from 2002.</abstract>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
-      <extent>80 pages</extent>
+      <extent>56 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85012111">
@@ -37,18 +37,18 @@
       <topic>College sports</topic>
    </subject>
    <subject authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n80003874">
+            valueURI="http://id.loc.gov/authorities/names/n80003880">
       <name>
          <namePart>University of Tennessee, Knoxville</namePart>
       </name>
    </subject>
    <subject>
       <name>
-         <namePart>Green, Jerry</namePart>
+         <namePart>Peterson, Buzz</namePart>
       </name>
    </subject>
    <subject authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n90646731">
+            valueURI="http://id.loc.gov/authorities/names/n90646737">
       <name>
          <namePart>Tennessee Volunteers (Basketball team)</namePart>
       </name>
