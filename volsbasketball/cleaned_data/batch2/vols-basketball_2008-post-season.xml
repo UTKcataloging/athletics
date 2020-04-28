@@ -4,25 +4,25 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">vols-basketball_2010-postseason</identifier>
+   <identifier type="local">vols-basketball_2008-post-season</identifier>
    <titleInfo>
-      <title>Tennessee Volunteers 2010: NCAA Tournament Sweet Sixteen Midwest Region Edward Jones Dome St. Louis, Mo. March 26 &amp; 28</title>
+      <title>Tennessee Volunteers 2008: NCAA Tournament East Region 1st &amp; 2nd rounds, Birmingham, Ala. March 21 &amp; 23</title>
    </titleInfo>
    <titleInfo supplied="yes">
-      <title>Tennessee Volunteers basketball postseason guide, 2010</title>
+      <title>Tennessee Volunteers basketball postseason guide, 2008</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2010</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2010</dateIssued>
+      <dateIssued>2008</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">2008</dateIssued>
       <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
    </originInfo>
-   <abstract>Tennessee Volunteers basketball program from 2010.</abstract>
+   <abstract>Tennessee Volunteers basketball program from 2008.</abstract>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
-      <extent>88 pages</extent>
+      <extent>114 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85012111">
@@ -37,7 +37,7 @@
       <topic>College sports</topic>
    </subject>
    <subject authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n80003888">
+            valueURI="http://id.loc.gov/authorities/names/n80003887">
       <name>
          <namePart>University of Tennessee, Knoxville</namePart>
       </name>
@@ -48,7 +48,7 @@
       </name>
    </subject>
    <subject authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n90646745">
+            valueURI="http://id.loc.gov/authorities/names/n90646744">
       <name>
          <namePart>Tennessee Volunteers (Basketball team)</namePart>
       </name>
