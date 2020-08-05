@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="local">vols-track_1976</identifier>
+
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1976</title></titleInfo>
+<titleInfo><title>University of Tennessee 1976 track guide</title></titleInfo> 
+<titleInfo type="alternative"><title>The University of Tennessee 1976 track</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1976. The team was coached by Stan Huntsman during this athletic season.</abstract>
+<originInfo><dateIssued>1976</dateIssued><dateIssued encoding="edtf" keyDate="yes">1976</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>36 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1980</identifier>
+
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1980</title></titleInfo>
+<titleInfo><title>University of Tennessee 1980 track guide</title></titleInfo> 
+<titleInfo type="alternative"><title>1980 University of Tennessee track</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1980. The team was coached by Stan Huntsman during this athletic season.</abstract>
+<originInfo><dateIssued>1980</dateIssued><dateIssued encoding="edtf" keyDate="yes">1980</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>40 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1981</identifier>
+
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1981</title></titleInfo>
+<titleInfo><title>University of Tennessee 1981 track guide</title></titleInfo> 
+<titleInfo type="alternative"><title>1981 University of Tennessee track</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1981. The team was coached by Stan Huntsman during this athletic season.</abstract>
+<originInfo><dateIssued>1981</dateIssued><dateIssued encoding="edtf" keyDate="yes">1981</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>44 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1982</identifier>
+
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1982</title></titleInfo>
+<titleInfo><title>University of Tennessee 1982 track guide</title></titleInfo> 
+<titleInfo type="alternative"><title>1982 University of Tennessee track</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1982. The team was coached by Stan Huntsman during this athletic season.</abstract>
+<originInfo><dateIssued>1982</dateIssued><dateIssued encoding="edtf" keyDate="yes">1982</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>48 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1983</identifier>
+<identifier>E01-8620-01-003-83</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1983</title></titleInfo>
+<titleInfo><title>University of Tennessee 1983 track guide</title></titleInfo> 
+<titleInfo type="alternative"><title>1983 University of Tennessee track</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1983. The team was coached by Stan Huntsman during this athletic season.</abstract>
+<originInfo><dateIssued>1983</dateIssued><dateIssued encoding="edtf" keyDate="yes">1983</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>52 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1984</identifier>
+<identifier>E01-8620-01-003-84</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1984</title></titleInfo>
+<titleInfo><title>University of Tennessee 1984 track guide</title></titleInfo> 
+<titleInfo type="alternative"><title>1984 University of Tennessee track</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1984. The team was coached by Stan Huntsman during this athletic season.</abstract>
+<originInfo><dateIssued>1984</dateIssued><dateIssued encoding="edtf" keyDate="yes">1984</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>52 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1985</identifier>
+<identifier>E01-8620-01-002-85</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1985</title></titleInfo>
+<titleInfo><title>University of Tennessee 1985 track guide</title></titleInfo> 
+<titleInfo type="alternative"><title>1985 University of Tennessee Vols track</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1985. The team was coached by Stan Huntsman during this athletic season.</abstract>
+<originInfo><dateIssued>1985</dateIssued><dateIssued encoding="edtf" keyDate="yes">1985</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>56 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1986</identifier>
+<identifier>E01-8620-01-002-86</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1986</title></titleInfo>
+<titleInfo><title>University of Tennessee 1986 track guide</title></titleInfo> 
+<titleInfo type="alternative"><title>University of Tennessee Vols track '86</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1986. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1986</dateIssued><dateIssued encoding="edtf" keyDate="yes">1986</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>60 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1986-05</identifier>
+
+<titleInfo supplied="yes"><title>Track Classic program, May 1986</title></titleInfo>
+ 
+<titleInfo type="alternative"><title>Gatorade Thirst Quencher Track Classic: Tom Black Track / the University of Tennessee, May 23-24, 1986 / Knoxville</title></titleInfo>
+<abstract>Program containing meet records, schedule, and heat and flight lists for the 15th annual Gatorade thirst quencher track classic.</abstract>
+<originInfo><dateIssued>May 1986</dateIssued><dateIssued encoding="edtf" keyDate="yes">1986-05</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>72 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2005033632"><name><namePart>Gatorade (Firm)</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1987</identifier>
+<identifier>E01-8620-01-002-87</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1987</title></titleInfo>
+<titleInfo><title>University of Tennessee 1987 track guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Tennessee '87 track</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1987. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1987</dateIssued><dateIssued encoding="edtf" keyDate="yes">1987</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>60 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1987-04</identifier>
+
+<titleInfo supplied="yes"><title>Dogwood Relays program, April 1987</title></titleInfo>
+ 
+<titleInfo type="alternative"><title>21st annual Dogwood Relays: University of Tennessee / Tom Black Track / April 10-11, 1987 / Knoxville</title></titleInfo>
+<abstract>Program containing meet records, schedule, and heat and flight lists for the 21st annual Dogwood Relays. The meet was sponsored by Sea Ray.</abstract>
+<originInfo><dateIssued>April 1987</dateIssued><dateIssued encoding="edtf" keyDate="yes">1987-04</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>82 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2011044901"><name><namePart>Sea Ray (Firm)</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1987-05</identifier>
+
+<titleInfo supplied="yes"><title>Track Classic program, May 1987</title></titleInfo>
+ 
+<titleInfo type="alternative"><title>Gatorade thirst quencher track classic: Tom Black Track / the University of Tennessee, May 23-23, 1987 / Knoxville</title></titleInfo>
+<abstract>Program containing meet records, schedule, and heat and flight lists for the 16th annual Track Classic.</abstract>
+<originInfo><dateIssued>May 1987</dateIssued><dateIssued encoding="edtf" keyDate="yes">1987-05</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>78 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2005033632"><name><namePart>Gatorade (Firm)</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1988</identifier>
+<identifier>E01-8620-01-003-88</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1988</title></titleInfo>
+<titleInfo><title>1988 Tennessee Volunteer track</title></titleInfo> 
+<titleInfo type="alternative"><title>1988 University of Tennessee track guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1988. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1988</dateIssued><dateIssued encoding="edtf" keyDate="yes">1988</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>48 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1989</identifier>
+<identifier>E01-8620-01-002-89</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1989</title></titleInfo>
+<titleInfo><title>1989 Tennessee media guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Vol captains headline 1989 squad: Tennessee track &amp; field 1989 media guide</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1989. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1989</dateIssued><dateIssued encoding="edtf" keyDate="yes">1989</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>56 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1990</identifier>
+<identifier>E01-8620-01-003-90</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1990</title></titleInfo>
+<titleInfo><title>Tennessee: 1990 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Tennessee track &amp; field: 1990 media guide</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1990. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1990</dateIssued><dateIssued encoding="edtf" keyDate="yes">1990</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>56 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1991</identifier>
+<identifier>E01-8620-01-002-91</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1991</title></titleInfo>
+<titleInfo><title>Tennessee: 1991 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>The University of Tennessee Volunteers: 1991 track &amp; field guide</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1991. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1991</dateIssued><dateIssued encoding="edtf" keyDate="yes">1991</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>60 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1992</identifier>
+<identifier>E01-8620-01-002-92</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1992</title></titleInfo>
+<titleInfo><title>Tennessee: 1992 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>1992 University of Tennessee Volunteers track &amp; field media guide: Tennessee, the tradition continues</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1992. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1992</dateIssued><dateIssued encoding="edtf" keyDate="yes">1992</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>64 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1993</identifier>
+<identifier>E01-8620-01-001-93</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1993</title></titleInfo>
+<titleInfo><title>Tennessee: 1993 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>1993 University of Tennessee Volunteers track &amp; field media guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1993. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1993</dateIssued><dateIssued encoding="edtf" keyDate="yes">1993</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>64 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1994</identifier>
+
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1994</title></titleInfo>
+<titleInfo><title>1994 track and field guide: Tennessee</title></titleInfo> 
+<titleInfo type="alternative"><title>1994 University of Tennessee Volunteers track &amp; field media guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1994. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1994</dateIssued><dateIssued encoding="edtf" keyDate="yes">1994</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>68 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1995</identifier>
+
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1995</title></titleInfo>
+<titleInfo><title>1995 track and field guide: Tennessee</title></titleInfo> 
+<titleInfo type="alternative"><title>1995 University of Tennessee Volunteers track &amp; field media guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1995. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1995</dateIssued><dateIssued encoding="edtf" keyDate="yes">1995</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>72 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1996</identifier>
+<identifier>E01-8620-01-001-96</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1996</title></titleInfo>
+<titleInfo><title>1996 track and field guide: Tennessee</title></titleInfo> 
+<titleInfo type="alternative"><title>Tennessee 1996 track &amp; field media guide</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1996. The team was coached by Doug Brown during this athletic season.</abstract>
+<originInfo><dateIssued>1996</dateIssued><dateIssued encoding="edtf" keyDate="yes">1996</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>72 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1997</identifier>
+<identifier>E01-8620-01-001-97</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1997</title></titleInfo>
+<titleInfo><title>1997 track and field guide: Tennessee Volunteers</title></titleInfo> 
+<titleInfo type="alternative"><title>Tennessee 1997 track &amp; field: 1996 SEC indoor champions</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1997. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>1997</dateIssued><dateIssued encoding="edtf" keyDate="yes">1997</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>72 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1998</identifier>
+<identifier>E01-8620-01-001-98</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1998</title></titleInfo>
+<titleInfo><title>1998 track and field guide: Tennessee Volunteers</title></titleInfo> 
+<titleInfo type="alternative"><title>1998 track &amp; field "experience the thrill"</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1998. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>1998</dateIssued><dateIssued encoding="edtf" keyDate="yes">1998</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>72 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_1999</identifier>
+
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 1999</title></titleInfo>
+<titleInfo><title>1999 track and field guide: Tennessee Volunteers</title></titleInfo> 
+<titleInfo type="alternative"><title>Tennessee Volunteers track &amp; field: 1999 media guide</title></titleInfo>
+<abstract>Volunteers track and field guide published in 1999. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>1999</dateIssued><dateIssued encoding="edtf" keyDate="yes">1999</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>72 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2000</identifier>
+<identifier>E01-8620-01-001-00</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2000</title></titleInfo>
+<titleInfo><title>Tennessee Volunteers: 2000 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Tenneessee track &amp; field 2000 media guide</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2000. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2000</dateIssued><dateIssued encoding="edtf" keyDate="yes">2000</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>72 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2001</identifier>
+<identifier>E01-8620-01-001-01</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2001</title></titleInfo>
+<titleInfo><title>Tennessee Volunteers: 2001 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Track &amp; field 2001 media guide: Tennessee Volunteers</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2001. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2001</dateIssued><dateIssued encoding="edtf" keyDate="yes">2001</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>76 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2002</identifier>
+<identifier>E01-8620-01-001-02</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2002</title></titleInfo>
+<titleInfo><title>Tennessee Volunteers: 2002 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Volunteers track &amp; field 2002 media guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2002. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2002</dateIssued><dateIssued encoding="edtf" keyDate="yes">2002</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>84 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2003</identifier>
+<identifier>E01-8620-01-001-03</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2003</title></titleInfo>
+<titleInfo><title>Tennessee Volunteers: 2003 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Volunteers track &amp; field 2003 media guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2003. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2003</dateIssued><dateIssued encoding="edtf" keyDate="yes">2003</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>88 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2004</identifier>
+<identifier>E01-8620-01-001-04</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2004</title></titleInfo>
+<titleInfo><title>Tennessee Volunteers: 2004 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Volunteers track &amp; field 2004 media guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2004. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2004</dateIssued><dateIssued encoding="edtf" keyDate="yes">2004</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>92 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2005</identifier>
+<identifier>E01-8620-01-001-05</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2005</title></titleInfo>
+<titleInfo><title>Tennessee Volunteers: 2005 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Volunteers 2005 track &amp; field media guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2005. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2005</dateIssued><dateIssued encoding="edtf" keyDate="yes">2005</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>92 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2005-04</identifier>
+
+<titleInfo supplied="yes"><title>Sea Ray Relays program, April 2005</title></titleInfo>
+ 
+<titleInfo type="alternative"><title>Tennessee: 39th annual 2005 Sea Ray relays April 13-16</title></titleInfo>
+<abstract>Program containing meet records, schedule, and heat and flight lists for the 39th annual Sea Ray Relays.</abstract>
+<originInfo><dateIssued>April 2005</dateIssued><dateIssued encoding="edtf" keyDate="yes">2005-04</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>36 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2011044901"><name><namePart>Sea Ray (Firm)</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2006</identifier>
+<identifier>E01-8601004-016-06</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2006</title></titleInfo>
+<titleInfo><title>Tennessee Volunteers: 2006 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Tennessee: Volunteers 2006 track &amp; field media guide</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2006. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2006</dateIssued><dateIssued encoding="edtf" keyDate="yes">2006</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>92 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2006-04</identifier>
+
+<titleInfo supplied="yes"><title>Sea Ray Relays program, April 2006</title></titleInfo>
+ 
+<titleInfo type="alternative"><title>Tennessee: 2006 Sea Ray Relays April 12-15</title></titleInfo>
+<abstract>Program containing meet records, schedule, and heat and flight lists for the 40th annual Sea Ray Relays.</abstract>
+<originInfo><dateIssued>April 2006</dateIssued><dateIssued encoding="edtf" keyDate="yes">2006-04</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>36 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2011044901"><name><namePart>Sea Ray (Firm)</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2007</identifier>
+<identifier>E01-8601004-016-07</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2007</title></titleInfo>
+<titleInfo><title>Tennessee Volunteers: 2007 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>Volunteers 2007 track &amp; field media guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2007. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2007</dateIssued><dateIssued encoding="edtf" keyDate="yes">2007</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>96 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094952"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2008</identifier>
+<identifier>E01-8601004-016-08</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2008</title></titleInfo>
+<titleInfo><title>Tennessee Volunteers: 2008 track and field guide</title></titleInfo> 
+<titleInfo type="alternative"><title>2008 Vols track &amp; field media guide: Tennessee</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2008. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2008</dateIssued><dateIssued encoding="edtf" keyDate="yes">2008</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>108 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094953"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-track_2009</identifier>
+<identifier>E01-8601004-016-09</identifier>
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers track and field media guide, 2009</title></titleInfo>
+ 
+<titleInfo type="alternative"><title>Tennessee: 2009 track &amp; field media guide</title></titleInfo>
+<abstract>Volunteers track and field guide published in 2009. The team was coached by Bill Webb during this athletic season.</abstract>
+<originInfo><dateIssued>2009</dateIssued><dateIssued encoding="edtf" keyDate="yes">2009</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>108 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98094954"><name><namePart>Bill Webb</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Track and Field</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods></modsCollection>
