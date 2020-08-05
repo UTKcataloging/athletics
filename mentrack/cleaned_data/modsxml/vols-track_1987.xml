@@ -28,6 +28,7 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form>
       <extent>60 pages</extent>
    </physicalDescription>
+   <note>The physical copy of the guide is missing two pages.</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh2002007683">
       <topic>Track and field</topic>
