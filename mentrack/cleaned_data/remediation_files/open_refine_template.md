@@ -30,6 +30,9 @@
 {{if(isBlank(cells['subject_name_3'].value), '', '<subject authority="wikidata" valueURI="' + cells['subject_name_3_URI'].value + '"><name><namePart>' + cells['subject_name_3'].value + '</namePart></name></subject>')}}
 {{if(isBlank(cells['subject_name_4'].value), '', '<subject authority="naf" valueURI="' + cells['subject_name_4_URI'].value + '"><name><namePart>' + cells['subject_name_4'].value + '</namePart></name></subject>')}}
 <subject authority="naf" valueURI="{{cells['subject_geographic_URI'].value}}"><geographic>{{cells['subject_geographic'].value}}</geographic><cartographics><coordinates>{{cells['coordinates'].value}}</coordinates></cartographics></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>{{cells['digital_collection'].value}}</title></titleInfo></relatedItem>
 {{if(isBlank(cells['digital_collection_2'].value), '', '<relatedItem displayLabel="Project" type="host"><titleInfo><title>' + cells['digital_collection_2'].value + '</title></titleInfo></relatedItem>')}}

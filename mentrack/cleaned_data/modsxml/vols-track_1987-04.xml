@@ -60,6 +60,9 @@
          <coordinates>35.96064, -83.92074</coordinates>
       </cartographics>
    </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
    <typeOfResource>text</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
