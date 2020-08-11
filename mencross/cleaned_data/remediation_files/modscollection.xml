@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="pid">mencross:17</identifier>
 <identifier type="local">vols-cross-country_1968</identifier>
 <titleInfo><title>University of Tennessee 1968 cross country information</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1968</title></titleInfo>
@@ -21,6 +22,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:13</identifier>
 <identifier type="local">vols-cross-country_1969</identifier>
 <titleInfo><title>The University of Tennessee 1969 cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1969</title></titleInfo>
@@ -42,6 +44,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:9</identifier>
 <identifier type="local">vols-cross-country_1970</identifier>
 <titleInfo><title>The University of Tennessee 1970 cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1970</title></titleInfo>
@@ -63,6 +66,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:5</identifier>
 <identifier type="local">vols-cross-country_1971</identifier>
 <titleInfo><title>Tennessee cross country 1971</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1971</title></titleInfo>
@@ -84,6 +88,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:1</identifier>
 <identifier type="local">vols-cross-country_1975</identifier>
 <titleInfo><title>Tennessee cross country 1975</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1975</title></titleInfo>
@@ -105,6 +110,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:138</identifier>
 <identifier type="local">vols-cross-country_1978</identifier>
 <titleInfo><title>The University of Tennessee 1978 cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1978</title></titleInfo>
@@ -126,6 +132,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:134</identifier>
 <identifier type="local">vols-cross-country_1984</identifier>
 <titleInfo><title>1984 University of Tennessee cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1984</title></titleInfo>
@@ -147,6 +154,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:127</identifier>
 <identifier type="local">vols-cross-country_1984-11</identifier>
 <titleInfo><title>1984 cross country championships: Louisiana State University</title></titleInfo> 
 <titleInfo supplied="yes"><title>SEC cross country championships, 1984</title></titleInfo>
@@ -168,6 +176,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:123</identifier>
 <identifier type="local">vols-cross-country_1985</identifier>
 <titleInfo><title>University of Tennessee Vols cross-country '85</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1985</title></titleInfo>
@@ -189,6 +198,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:119</identifier>
 <identifier type="local">vols-cross-country_1987</identifier>
 <titleInfo><title>Tennessee '87 cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1987</title></titleInfo>
@@ -210,6 +220,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:115</identifier>
 <identifier type="local">vols-cross-country_1988</identifier>
 <titleInfo><title>Tennessee Vols 1988 cross country outlook</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1988</title></titleInfo>
@@ -231,6 +242,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:111</identifier>
 <identifier type="local">vols-cross-country_1989</identifier>
 <titleInfo><title>Tennessee 1989 cross country media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1989</title></titleInfo>
@@ -252,6 +264,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:104</identifier>
 <identifier type="local">vols-cross-country_1990</identifier>
 <titleInfo><title>1990 Tennessee cross-country guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1990</title></titleInfo>
@@ -273,6 +286,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:97</identifier>
 <identifier type="local">vols-cross-country_1991</identifier>
 <titleInfo><title>1991 Tennessee cross-country guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1991</title></titleInfo>
@@ -294,6 +308,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:90</identifier>
 <identifier type="local">vols-cross-country_1992</identifier>
 <titleInfo><title>Tennessee 1992 cross-country guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1992</title></titleInfo>
@@ -315,6 +330,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:83</identifier>
 <identifier type="local">vols-cross-country_1993</identifier>
 <titleInfo><title>Tennessee 1993 cross country media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1993</title></titleInfo>
@@ -336,6 +352,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:76</identifier>
 <identifier type="local">vols-cross-country_1994</identifier>
 <titleInfo><title>Tennessee Volunteers 1994 cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1994</title></titleInfo>
@@ -357,6 +374,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:69</identifier>
 <identifier type="local">vols-cross-country_1995</identifier>
 <titleInfo><title>Tennessee 1995 cross country: top of the hill</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1995</title></titleInfo>
@@ -378,6 +396,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:62</identifier>
 <identifier type="local">vols-cross-country_1996</identifier>
 <titleInfo><title>Tennessee 1996 cross country: a study of endurance</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1996</title></titleInfo>
@@ -399,6 +418,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:55</identifier>
 <identifier type="local">vols-cross-country_1997</identifier>
 <titleInfo><title>Tennessee 1997 cross country: breaking away</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1997</title></titleInfo>
@@ -420,6 +440,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:48</identifier>
 <identifier type="local">vols-cross-country_1998</identifier>
 <titleInfo><title>Tennessee Volunteers 1998 cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1998</title></titleInfo>
@@ -441,6 +462,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:41</identifier>
 <identifier type="local">vols-cross-country_1999</identifier>
 <titleInfo><title>Tennessee Volunteers cross country 1999</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 1999</title></titleInfo>
@@ -462,6 +484,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:34</identifier>
 <identifier type="local">vols-cross-country_2001</identifier>
 <titleInfo><title>Tennessee cross country 2001</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 2001</title></titleInfo>
@@ -483,6 +506,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:204</identifier>
 <identifier type="local">vols-cross-country_2002</identifier>
 <titleInfo><title>Tennessee 2002 cross country media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 2002</title></titleInfo>
@@ -504,6 +528,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:195</identifier>
 <identifier type="local">vols-cross-country_2003</identifier>
 <titleInfo><title>Tennessee 2003 cross country media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 2003</title></titleInfo>
@@ -525,6 +550,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:186</identifier>
 <identifier type="local">vols-cross-country_2004</identifier>
 <titleInfo><title>Tennessee 2004 cross country media guide: ready to race</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 2004</title></titleInfo>
@@ -546,6 +572,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:177</identifier>
 <identifier type="local">vols-cross-country_2005</identifier>
 <titleInfo><title>Tennessee 2005 cross country media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 2005</title></titleInfo>
@@ -567,6 +594,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:168</identifier>
 <identifier type="local">vols-cross-country_2006</identifier>
 <titleInfo><title>Tennessee 2006 cross country media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 2006</title></titleInfo>
@@ -588,6 +616,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:159</identifier>
 <identifier type="local">vols-cross-country_2007</identifier>
 <titleInfo><title>Tennessee 2007 cross country media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 2007</title></titleInfo>
@@ -609,6 +638,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">mencross:142</identifier>
 <identifier type="local">vols-cross-country_2008</identifier>
 <titleInfo><title>Tennessee 2008 cross country media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers cross country, 2008</title></titleInfo>
