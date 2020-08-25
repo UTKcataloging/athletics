@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
 <identifier type="local">lady-vols-tennis_1977</identifier>
+<identifier type="pid">ladytennis_1602</identifier>
 <titleInfo><title>Lady Volunteer tennis 1977-78</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1977-1978</title></titleInfo>
 <originInfo><dateIssued>1977</dateIssued><dateIssued encoding="edtf" keyDate="yes">1977</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1977.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>3 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>3 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133888"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010432"><topic>College sports for women</topic></subject>
@@ -16,7 +17,7 @@
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject><name><namePart>Lady Volunteers (Tennis team)</namePart></name></subject>
-<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109784"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
@@ -24,12 +25,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1979</identifier>
+<identifier type="pid">ladytennis_1798</identifier>
 <titleInfo><title>1979-80 Tennessee tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1979-1980</title></titleInfo>
 <originInfo><dateIssued>1979</dateIssued><dateIssued encoding="edtf" keyDate="yes">1979</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1979.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><extent>3 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>3 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133889"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010433"><topic>College sports for women</topic></subject>
@@ -39,7 +41,7 @@
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject><name><namePart>Lady Volunteers (Tennis team)</namePart></name></subject>
-<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109785"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
@@ -47,12 +49,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1980</identifier>
+<identifier type="pid">ladytennis_1785</identifier>
 <titleInfo><title>The University of Tennessee Lady Volunteers: 1980-81 tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1980-1981</title></titleInfo>
 <originInfo><dateIssued>1980</dateIssued><dateIssued encoding="edtf" keyDate="yes">1980</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1980.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>12 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>12 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -70,12 +73,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1981</identifier>
+<identifier type="pid">ladytennis_1772</identifier>
 <titleInfo><title>Tennessee: 1982 Lady Vols tennis </title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1981-1982</title></titleInfo>
 <originInfo><dateIssued>1981</dateIssued><dateIssued encoding="edtf" keyDate="yes">1981</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1981.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>12 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>12 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -93,12 +97,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1982</identifier>
+<identifier type="pid">ladytennis_1755</identifier>
 <titleInfo><title>Tennessee: 1982-83 Lady Vols tennis </title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1982-1983</title></titleInfo>
 <originInfo><dateIssued>1982</dateIssued><dateIssued encoding="edtf" keyDate="yes">1982</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1982.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>16 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>16 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -116,12 +121,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1983</identifier>
+<identifier type="pid">ladytennis_1748</identifier>
 <titleInfo><title>1984 Tennis outlook: Lady Volunteer tennis illustrated</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis outlook, 1983</title></titleInfo>
 <originInfo><dateIssued>1983</dateIssued><dateIssued encoding="edtf" keyDate="yes">1983</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1983.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>6 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>6 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -139,12 +145,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1984</identifier>
+<identifier type="pid">ladytennis_1731</identifier>
 <titleInfo><title>1984-85 Tennessee: Lady Vols tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1984-1985</title></titleInfo>
 <originInfo><dateIssued>1984</dateIssued><dateIssued encoding="edtf" keyDate="yes">1984</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1984.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>16 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>16 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -162,12 +169,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1985</identifier>
+<identifier type="pid">ladytennis_1714</identifier>
 <titleInfo><title>Tennessee Lady Vols 1985-86 tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1985-1986</title></titleInfo>
 <originInfo><dateIssued>1985</dateIssued><dateIssued encoding="edtf" keyDate="yes">1985</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1985.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>16 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>16 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -185,12 +193,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1986</identifier>
+<identifier type="pid">ladytennis_1693</identifier>
 <titleInfo><title>1986-87 Tennessee Lady Vols tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1986-1987</title></titleInfo>
 <originInfo><dateIssued>1986</dateIssued><dateIssued encoding="edtf" keyDate="yes">1986</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1986.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>20 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>20 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -208,12 +217,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1987</identifier>
+<identifier type="pid">ladytennis_1668</identifier>
 <titleInfo><title>1987-88 Tennessee Lady Vol tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1987-1988</title></titleInfo>
 <originInfo><dateIssued>1987</dateIssued><dateIssued encoding="edtf" keyDate="yes">1987</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1987.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>24 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>24 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -231,12 +241,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1988</identifier>
+<identifier type="pid">ladytennis_1639</identifier>
 <titleInfo><title>1988-1989 Tennessee Lady Vol tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1988-1989</title></titleInfo>
 <originInfo><dateIssued>1988</dateIssued><dateIssued encoding="edtf" keyDate="yes">1988</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1988.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>28 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>28 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -254,12 +265,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1989</identifier>
+<identifier type="pid">ladytennis_1606</identifier>
 <titleInfo><title>1989-1990 Tennessee Lady Vols tennis media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1989-1990</title></titleInfo>
 <originInfo><dateIssued>1989</dateIssued><dateIssued encoding="edtf" keyDate="yes">1989</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1989.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>32 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>32 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -277,12 +289,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1990</identifier>
+<identifier type="pid">ladytennis_2072</identifier>
 <titleInfo><title>Tennessee Lady Volunteers 1990-91 tennis media guide on the right track</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1990-1991</title></titleInfo>
 <originInfo><dateIssued>1990</dateIssued><dateIssued encoding="edtf" keyDate="yes">1990</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1990.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>36 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>36 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -300,12 +313,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1991</identifier>
+<identifier type="pid">ladytennis_2031</identifier>
 <titleInfo><title>1991-92 University of Tennessee Lady Volunteers tennis media guide: in full bloom</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1991-1992</title></titleInfo>
 <originInfo><dateIssued>1991</dateIssued><dateIssued encoding="edtf" keyDate="yes">1991</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1991.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>40 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>40 pages</extent></physicalDescription>
 <note>This document is physically missing pages 25-28.</note> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -323,12 +337,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1992</identifier>
+<identifier type="pid">ladytennis_1994</identifier>
 <titleInfo><title>1992-93 Tennessee Lady Vol tennis: big time expectations</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1992-1993</title></titleInfo>
 <originInfo><dateIssued>1992</dateIssued><dateIssued encoding="edtf" keyDate="yes">1992</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1992.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>36 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>36 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -346,12 +361,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1993</identifier>
+<identifier type="pid">ladytennis_1949</identifier>
 <titleInfo><title>1993-94 Tennessee Lady Vols tennis: tearing into the season</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1993-1994</title></titleInfo>
 <originInfo><dateIssued>1993</dateIssued><dateIssued encoding="edtf" keyDate="yes">1993</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1993.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>44 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>44 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -369,12 +385,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1994</identifier>
+<identifier type="pid">ladytennis_1900</identifier>
 <titleInfo><title>1994-95 Tennessee Lady Volunteer tennis: on cloud nine</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1994-1995</title></titleInfo>
 <originInfo><dateIssued>1994</dateIssued><dateIssued encoding="edtf" keyDate="yes">1994</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1994.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>48 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>48 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -392,12 +409,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1995</identifier>
+<identifier type="pid">ladytennis_1851</identifier>
 <titleInfo><title>1995-96 Tennessee Lady Volunteer tennis: aces are wild</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1995-1996</title></titleInfo>
 <originInfo><dateIssued>1995</dateIssued><dateIssued encoding="edtf" keyDate="yes">1995</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1995.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>48 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>48 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -415,12 +433,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1996</identifier>
+<identifier type="pid">ladytennis_1802</identifier>
 <titleInfo><title>1996-97 Tennessee Lady Volunteer tennis: big hit on the net</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1996-1997</title></titleInfo>
 <originInfo><dateIssued>1996</dateIssued><dateIssued encoding="edtf" keyDate="yes">1996</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1996.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>48 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>48 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -438,12 +457,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1997</identifier>
+<identifier type="pid">ladytennis_2109</identifier>
 <titleInfo><title>1997-98 Tennessee tennis: completing the puzzle</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1997-1998</title></titleInfo>
 <originInfo><dateIssued>1997</dateIssued><dateIssued encoding="edtf" keyDate="yes">1997</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1997.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>52 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>52 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -461,12 +481,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1998</identifier>
+<identifier type="pid">ladytennis_2162</identifier>
 <titleInfo><title>1998-99 Tennessee Lady Vols tennis: "swing set"</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1998-1999</title></titleInfo>
 <originInfo><dateIssued>1998</dateIssued><dateIssued encoding="edtf" keyDate="yes">1998</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1998.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>56 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>56 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -484,12 +505,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_1999</identifier>
+<identifier type="pid">ladytennis_3025</identifier>
 <titleInfo><title>Young contenders: 1999-2000 Tennessee Lady Vol tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 1999-2000</title></titleInfo>
 <originInfo><dateIssued>1999</dateIssued><dateIssued encoding="edtf" keyDate="yes">1999</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 1999.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>60 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>60 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -507,12 +529,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2000</identifier>
+<identifier type="pid">ladytennis_2956</identifier>
 <titleInfo><title>2001 Tennessee Lady Vol tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2001</title></titleInfo>
 <originInfo><dateIssued>2001</dateIssued><dateIssued encoding="edtf" keyDate="yes">2001</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2001.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>68 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>68 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -530,12 +553,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2001</identifier>
+<identifier type="pid">ladytennis_2883</identifier>
 <titleInfo><title>Completing the circuit: University of Tennessee 2001-02 Lady Vol tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2001-2002</title></titleInfo>
 <originInfo><dateIssued>2001</dateIssued><dateIssued encoding="edtf" keyDate="yes">2001</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2001.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>72 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>72 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -553,12 +577,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2002</identifier>
+<identifier type="pid">ladytennis_2798</identifier>
 <titleInfo><title>Guilty… of being good: 2002-03 Tennessee Lady Vol tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2002-2003</title></titleInfo>
 <originInfo><dateIssued>2002</dateIssued><dateIssued encoding="edtf" keyDate="yes">2002</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2002.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>84 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>84 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -576,12 +601,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2003</identifier>
+<identifier type="pid">ladytennis_2713</identifier>
 <titleInfo><title>Coming to a court near you… net results: 2003-04 Tennessee Lady Vol tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2003-2004</title></titleInfo>
 <originInfo><dateIssued>2003</dateIssued><dateIssued encoding="edtf" keyDate="yes">2003</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2003.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>84 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>84 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -599,12 +625,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2004</identifier>
+<identifier type="pid">ladytennis_2628</identifier>
 <titleInfo><title>2004-05 Tennessee Lady Vol tennis: blazing racquets</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2004-2005</title></titleInfo>
 <originInfo><dateIssued>2004</dateIssued><dateIssued encoding="edtf" keyDate="yes">2004</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2004.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>84 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>84 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -622,12 +649,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2006</identifier>
+<identifier type="pid">ladytennis_2543</identifier>
 <titleInfo><title>LadyVolStation07: "gamers" Lady Vols tennis University of Tennessee</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2006-2007</title></titleInfo>
 <originInfo><dateIssued>2006</dateIssued><dateIssued encoding="edtf" keyDate="yes">2006</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2006.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>84 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>84 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -645,12 +673,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2007</identifier>
+<identifier type="pid">ladytennis_2458</identifier>
 <titleInfo><title>Greetings from Rocky Top "tennis"-ee!: Lady Vol 2007-08 media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2007-2008</title></titleInfo>
 <originInfo><dateIssued>2007</dateIssued><dateIssued encoding="edtf" keyDate="yes">2007</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2007.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>84 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>84 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -660,7 +689,7 @@
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject><name><namePart>Lady Volunteers (Tennis team)</namePart></name></subject>
-<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109787"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
@@ -668,12 +697,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2008</identifier>
+<identifier type="pid">ladytennis_2373</identifier>
 <titleInfo><title>Perennial winners: 2009 Tennessee Lady Vol tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2009</title></titleInfo>
 <originInfo><dateIssued>2009</dateIssued><dateIssued encoding="edtf" keyDate="yes">2009</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2009.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>84 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>84 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -683,7 +713,7 @@
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject><name><namePart>Lady Volunteers (Tennis team)</namePart></name></subject>
-<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109788"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
@@ -691,12 +721,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2009</identifier>
+<identifier type="pid">ladytennis_2284</identifier>
 <titleInfo><title>Ready for the challenge: 2009-10 team Tennessee</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2009-2010</title></titleInfo>
 <originInfo><dateIssued>2009</dateIssued><dateIssued encoding="edtf" keyDate="yes">2009</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2009.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>88 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>88 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
@@ -706,7 +737,7 @@
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject><name><namePart>Lady Volunteers (Tennis team)</namePart></name></subject>
-<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109789"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
@@ -714,12 +745,13 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
 <identifier type="local">lady-vols-tennis_2011</identifier>
+<identifier type="pid">ladytennis_2219</identifier>
 <titleInfo><title>Tennessee: 2011 Lady Vol tennis</title></titleInfo> 
 <titleInfo supplied="yes"><title>Lady Volunteers tennis media guide, 2011</title></titleInfo>
 <originInfo><dateIssued>2011</dateIssued><dateIssued encoding="edtf" keyDate="yes">2011</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers tennis program published in 2011.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>64 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>64 pages</extent></physicalDescription>
  
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133891"><topic>Tennis</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010435"><topic>College sports for women</topic></subject>
@@ -729,7 +761,7 @@
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003890"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject><name><namePart>Lady Volunteers (Tennis team)</namePart></name></subject>
-<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109790"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
