@@ -14,12 +14,13 @@
 ```
 <mods>
 <identifier type="local">{{cells["identifier"].value}}</identifier>
+<identifier type="pid">{{cells["PID"].value}}</identifier>
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>')}} 
 <titleInfo supplied="yes"><title>{{cells['title_supplied'].value}}</title></titleInfo>
 {{if(isBlank(cells['dateIssued'].value), '', '<originInfo><dateIssued>' + cells['dateIssued'].value + '</dateIssued><dateIssued encoding="edtf" keyDate="yes">' + cells['dateIssued'].value + '</dateIssued><publisher>' + cells['publisher'].value + '</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>')}}
 <abstract>{{cells["abstract"].value}}</abstract>
-<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells["extent"].value}}</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><form authority="aat" valueURI="{{cells['form2_URI'].value}}">{{cells['form2'].value}}</form><extent>{{cells["extent"].value}}</extent></physicalDescription>
 {{if(isBlank(cells['note'].value), '', '<note>' + cells['note'].value + '</note>')}} 
 {{if(isBlank(cells['subject_topic'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_URI'].value + '"><topic>' + cells['subject_topic'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_topic_2'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_2_URI'].value + '"><topic>' + cells['subject_topic_2'].value + '</topic></subject>')}}
