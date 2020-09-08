@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">lady-vols-cross-country_1999</identifier>
    <titleInfo supplied="yes">
-      <title>University of Tennessee Lady Volunteers cross country media guide</title>
+      <title>University of Tennessee Lady Volunteers cross country media guide, 1999</title>
    </titleInfo>
    <abstract>Lady Volunteers cross country program published in 1999. The team was led by coach Brenda Webb during this athletic season.</abstract>
    <originInfo>
@@ -18,7 +18,7 @@
       </place>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="null"/>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
       <extent>44 pages</extent>
    </physicalDescription>
