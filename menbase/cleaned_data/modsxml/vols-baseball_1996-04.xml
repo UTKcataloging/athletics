@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">vols-baseball_1996-04</identifier>
    <titleInfo supplied="yes">
-      <title>University of Tennessee Volunteers baseball game program, 1996-04</title>
+      <title>University of Tennessee Volunteers baseball game program, 1996</title>
    </titleInfo>
    <titleInfo>
       <title>1996 Tennessee Volunteers baseball</title>
@@ -14,10 +14,10 @@
    <titleInfo type="alternative">
       <title>1996 Tennessee game program</title>
    </titleInfo>
-   <abstract>Volunteers baseball guide published in 1996. The team was coached by Rod Delmonico during this athletic season.</abstract>
+   <abstract>Volunteers baseball program for game against the Ole Miss Rebels.</abstract>
    <originInfo>
-      <dateIssued>April 1996</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">1996-04</dateIssued>
+      <dateIssued>1996</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1996</dateIssued>
       <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
