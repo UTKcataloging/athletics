@@ -11,17 +11,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600543"><name><namePart>Chuck Rohe</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600543"><name><namePart>Chuck Rohe</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:13</identifier>
 <identifier type="local">vols-cross-country_1969</identifier>
 <titleInfo><title>The University of Tennessee 1969 cross country</title></titleInfo> 
@@ -33,17 +32,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97599957"><name><namePart>Connie Smith</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97599957"><name><namePart>Connie Smith</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:9</identifier>
 <identifier type="local">vols-cross-country_1970</identifier>
 <titleInfo><title>The University of Tennessee 1970 cross country</title></titleInfo> 
@@ -55,17 +53,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97599957"><name><namePart>Connie Smith</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97599957"><name><namePart>Connie Smith</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:5</identifier>
 <identifier type="local">vols-cross-country_1971</identifier>
 <titleInfo><title>Tennessee cross country 1971</title></titleInfo> 
@@ -77,17 +74,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:1</identifier>
 <identifier type="local">vols-cross-country_1975</identifier>
 <titleInfo><title>Tennessee cross country 1975</title></titleInfo> 
@@ -99,17 +95,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:138</identifier>
 <identifier type="local">vols-cross-country_1978</identifier>
 <titleInfo><title>The University of Tennessee 1978 cross country</title></titleInfo> 
@@ -121,17 +116,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:134</identifier>
 <identifier type="local">vols-cross-country_1984</identifier>
 <titleInfo><title>1984 University of Tennessee cross country</title></titleInfo> 
@@ -143,17 +137,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q27928526"><name><namePart>Stan Huntsman</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:127</identifier>
 <identifier type="local">vols-cross-country_1984-11</identifier>
 <titleInfo><title>1984 cross country championships: Louisiana State University</title></titleInfo> 
@@ -167,15 +160,14 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:123</identifier>
 <identifier type="local">vols-cross-country_1985</identifier>
 <titleInfo><title>University of Tennessee Vols cross-country '85</title></titleInfo> 
@@ -187,17 +179,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:119</identifier>
 <identifier type="local">vols-cross-country_1987</identifier>
 <titleInfo><title>Tennessee '87 cross country</title></titleInfo> 
@@ -209,17 +200,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:115</identifier>
 <identifier type="local">vols-cross-country_1988</identifier>
 <titleInfo><title>Tennessee Vols 1988 cross country outlook</title></titleInfo> 
@@ -231,17 +221,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:111</identifier>
 <identifier type="local">vols-cross-country_1989</identifier>
 <titleInfo><title>Tennessee 1989 cross country media guide</title></titleInfo> 
@@ -253,17 +242,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:104</identifier>
 <identifier type="local">vols-cross-country_1990</identifier>
 <titleInfo><title>1990 Tennessee cross-country guide</title></titleInfo> 
@@ -275,17 +263,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:97</identifier>
 <identifier type="local">vols-cross-country_1991</identifier>
 <titleInfo><title>1991 Tennessee cross-country guide</title></titleInfo> 
@@ -297,17 +284,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:90</identifier>
 <identifier type="local">vols-cross-country_1992</identifier>
 <titleInfo><title>Tennessee 1992 cross-country guide</title></titleInfo> 
@@ -319,17 +305,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:83</identifier>
 <identifier type="local">vols-cross-country_1993</identifier>
 <titleInfo><title>Tennessee 1993 cross country media guide</title></titleInfo> 
@@ -341,17 +326,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:76</identifier>
 <identifier type="local">vols-cross-country_1994</identifier>
 <titleInfo><title>Tennessee Volunteers 1994 cross country</title></titleInfo> 
@@ -363,17 +347,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q17285326"><name><namePart>Doug Brown</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:69</identifier>
 <identifier type="local">vols-cross-country_1995</identifier>
 <titleInfo><title>Tennessee 1995 cross country: top of the hill</title></titleInfo> 
@@ -385,17 +368,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:62</identifier>
 <identifier type="local">vols-cross-country_1996</identifier>
 <titleInfo><title>Tennessee 1996 cross country: a study of endurance</title></titleInfo> 
@@ -407,17 +389,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:55</identifier>
 <identifier type="local">vols-cross-country_1997</identifier>
 <titleInfo><title>Tennessee 1997 cross country: breaking away</title></titleInfo> 
@@ -429,17 +410,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:48</identifier>
 <identifier type="local">vols-cross-country_1998</identifier>
 <titleInfo><title>Tennessee Volunteers 1998 cross country</title></titleInfo> 
@@ -451,17 +431,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:41</identifier>
 <identifier type="local">vols-cross-country_1999</identifier>
 <titleInfo><title>Tennessee Volunteers cross country 1999</title></titleInfo> 
@@ -473,17 +452,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:34</identifier>
 <identifier type="local">vols-cross-country_2001</identifier>
 <titleInfo><title>Tennessee cross country 2001</title></titleInfo> 
@@ -495,17 +473,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:204</identifier>
 <identifier type="local">vols-cross-country_2002</identifier>
 <titleInfo><title>Tennessee 2002 cross country media guide</title></titleInfo> 
@@ -517,17 +494,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:195</identifier>
 <identifier type="local">vols-cross-country_2003</identifier>
 <titleInfo><title>Tennessee 2003 cross country media guide</title></titleInfo> 
@@ -539,17 +515,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:186</identifier>
 <identifier type="local">vols-cross-country_2004</identifier>
 <titleInfo><title>Tennessee 2004 cross country media guide: ready to race</title></titleInfo> 
@@ -561,17 +536,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:177</identifier>
 <identifier type="local">vols-cross-country_2005</identifier>
 <titleInfo><title>Tennessee 2005 cross country media guide</title></titleInfo> 
@@ -583,17 +557,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:168</identifier>
 <identifier type="local">vols-cross-country_2006</identifier>
 <titleInfo><title>Tennessee 2006 cross country media guide</title></titleInfo> 
@@ -605,17 +578,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:159</identifier>
 <identifier type="local">vols-cross-country_2007</identifier>
 <titleInfo><title>Tennessee 2007 cross country media guide</title></titleInfo> 
@@ -627,17 +599,16 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="pid">mencross:142</identifier>
 <identifier type="local">vols-cross-country_2008</identifier>
 <titleInfo><title>Tennessee 2008 cross country media guide</title></titleInfo> 
@@ -649,9 +620,9 @@
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008001260"><topic>Long-distance running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh90004401"><topic>Cross-country running</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600280"><name><namePart>George Watts</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q97600280"><name><namePart>George Watts</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
-<subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
+<subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7700235"><name><namePart>Tennessee Volunteers cross country</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Cross Country Media Guides</title></titleInfo></relatedItem>

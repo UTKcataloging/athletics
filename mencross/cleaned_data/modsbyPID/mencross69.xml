@@ -4,23 +4,23 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="pid">mencross:90</identifier>
-   <identifier type="local">vols-cross-country_1992</identifier>
+   <identifier type="pid">mencross:69</identifier>
+   <identifier type="local">vols-cross-country_1995</identifier>
    <titleInfo>
-      <title>Tennessee 1992 cross-country guide</title>
+      <title>Tennessee 1995 cross country: top of the hill</title>
    </titleInfo>
    <titleInfo supplied="yes">
-      <title>University of Tennessee Volunteers cross country, 1992</title>
+      <title>University of Tennessee Volunteers cross country, 1995</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>1992</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">1992</dateIssued>
+      <dateIssued>1995</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1995</dateIssued>
       <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
    </originInfo>
-   <abstract>Volunteers cross country program published in 1992. The team was coached by Doug Brown during this athletic season.</abstract>
+   <abstract>Volunteers cross country program published in 1995. The team was coached by George Watts during this athletic season.</abstract>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
@@ -38,9 +38,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q17285326">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q97600280">
       <name>
-         <namePart>Doug Brown</namePart>
+         <namePart>George Watts</namePart>
       </name>
    </subject>
    <subject authority="naf"
@@ -49,7 +50,8 @@
          <namePart>University of Tennessee, Knoxville</namePart>
       </name>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q7700235">
       <name>
          <namePart>Tennessee Volunteers cross country</namePart>
       </name>

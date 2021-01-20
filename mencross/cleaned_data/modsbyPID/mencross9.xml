@@ -4,27 +4,27 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="pid">mencross:127</identifier>
-   <identifier type="local">vols-cross-country_1984-11</identifier>
+   <identifier type="pid">mencross:9</identifier>
+   <identifier type="local">vols-cross-country_1970</identifier>
    <titleInfo>
-      <title>1984 cross country championships: Louisiana State University</title>
+      <title>The University of Tennessee 1970 cross country</title>
    </titleInfo>
    <titleInfo supplied="yes">
-      <title>SEC cross country championships, 1984</title>
+      <title>University of Tennessee Volunteers cross country, 1970</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>November 1984</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">1984-11</dateIssued>
+      <dateIssued>1970</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1970</dateIssued>
       <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
    </originInfo>
-   <abstract>Cross country program for the SEC championships in 1984.</abstract>
+   <abstract>Volunteers cross country program published in 1970. The team was coached by Connie Smith during this athletic season.</abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
-      <extent>6 pages</extent>
+      <extent>3 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh2008001260">
@@ -38,13 +38,20 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q97599957">
+      <name>
+         <namePart>Connie Smith</namePart>
+      </name>
+   </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n80003889">
       <name>
          <namePart>University of Tennessee, Knoxville</namePart>
       </name>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q7700235">
       <name>
          <namePart>Tennessee Volunteers cross country</namePart>
       </name>

@@ -4,27 +4,27 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="pid">mencross:138</identifier>
-   <identifier type="local">vols-cross-country_1978</identifier>
+   <identifier type="pid">mencross:186</identifier>
+   <identifier type="local">vols-cross-country_2004</identifier>
    <titleInfo>
-      <title>The University of Tennessee 1978 cross country</title>
+      <title>Tennessee 2004 cross country media guide: ready to race</title>
    </titleInfo>
    <titleInfo supplied="yes">
-      <title>University of Tennessee Volunteers cross country, 1978</title>
+      <title>University of Tennessee Volunteers cross country, 2004</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>1978</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">1978</dateIssued>
+      <dateIssued>2004</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">2004</dateIssued>
       <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
    </originInfo>
-   <abstract>Volunteers cross country program published in 1978. The team was coached by Stan Huntsman during this athletic season.</abstract>
+   <abstract>Volunteers cross country program published in 2004. The team was coached by George Watts during this athletic season.</abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
-      <extent>3 pages</extent>
+      <extent>8 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh2008001260">
@@ -38,9 +38,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q27928526">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q97600280">
       <name>
-         <namePart>Stan Huntsman</namePart>
+         <namePart>George Watts</namePart>
       </name>
    </subject>
    <subject authority="naf"
@@ -49,7 +50,8 @@
          <namePart>University of Tennessee, Knoxville</namePart>
       </name>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q7700235">
       <name>
          <namePart>Tennessee Volunteers cross country</namePart>
       </name>
@@ -74,5 +76,5 @@
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
    <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>

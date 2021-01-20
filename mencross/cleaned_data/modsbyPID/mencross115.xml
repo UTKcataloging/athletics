@@ -4,27 +4,27 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="pid">mencross:17</identifier>
-   <identifier type="local">vols-cross-country_1968</identifier>
+   <identifier type="pid">mencross:115</identifier>
+   <identifier type="local">vols-cross-country_1988</identifier>
    <titleInfo>
-      <title>University of Tennessee 1968 cross country information</title>
+      <title>Tennessee Vols 1988 cross country outlook</title>
    </titleInfo>
    <titleInfo supplied="yes">
-      <title>University of Tennessee Volunteers cross country, 1968</title>
+      <title>University of Tennessee Volunteers cross country, 1988</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>1968</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">1968</dateIssued>
+      <dateIssued>1988</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1988</dateIssued>
       <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
    </originInfo>
-   <abstract>Volunteers cross country program published in 1968. The team was coached by Chuck Rohe during this athletic season.</abstract>
+   <abstract>Volunteers cross country program published in 1988. The team was coached by Doug Brown during this athletic season.</abstract>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300248280">brochures</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
-      <extent>16 pages</extent>
+      <extent>3 pages</extent>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh2008001260">
@@ -38,9 +38,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q97600543">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q17285326">
       <name>
-         <namePart>Chuck Rohe</namePart>
+         <namePart>Doug Brown</namePart>
       </name>
    </subject>
    <subject authority="naf"
@@ -49,7 +50,8 @@
          <namePart>University of Tennessee, Knoxville</namePart>
       </name>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700235">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q7700235">
       <name>
          <namePart>Tennessee Volunteers cross country</namePart>
       </name>
