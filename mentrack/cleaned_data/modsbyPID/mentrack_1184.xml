@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">vols-track_1989</identifier>
+   <identifier type="pid">mentrack_1184</identifier>
+   <identifier>E01-8620-01-002-89</identifier>
+   <titleInfo supplied="yes">
+      <title>University of Tennessee Volunteers track and field media guide, 1989</title>
+   </titleInfo>
+   <titleInfo>
+      <title>1989 Tennessee media guide</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Vol captains headline 1989 squad: Tennessee track &amp; field 1989 media guide</title>
+   </titleInfo>
+   <abstract>Volunteers track and field guide published in 1989. The team was coached by Doug Brown during this athletic season.</abstract>
+   <originInfo>
+      <dateIssued>1989</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1989</dateIssued>
+      <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+      <extent>56 pages</extent>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2002007683">
+      <topic>Track and field</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85136442">
+      <topic>Track and field athletes</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+      <topic>College sports</topic>
+   </subject>
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q17285326">
+      <name>
+         <namePart>Doug Brown</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q7700239">
+      <name>
+         <namePart>Tennessee Volunteers track and field</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79109786">
+      <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Volunteers Track and Field Media Guides</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

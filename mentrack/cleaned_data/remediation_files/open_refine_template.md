@@ -14,6 +14,7 @@
 ```
 <mods>
 <identifier type="local">{{cells["identifier"].value}}</identifier>
+<identifier type="pid">{{cells["PID"].value}}</identifier>
 {{if(isBlank(cells['publication_identifier'].value), '', '<identifier>' + cells['publication_identifier'].value + '</identifier>')}}
 <titleInfo supplied="yes"><title>{{cells['title_supplied'].value}}</title></titleInfo>
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>')}} 
