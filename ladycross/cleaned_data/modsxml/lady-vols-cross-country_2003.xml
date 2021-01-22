@@ -41,7 +41,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh2008001260">
       <topic>Long-distance running</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q98714305">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q98714305">
       <name>
          <namePart>J. J. Clark</namePart>
       </name>
@@ -52,7 +53,8 @@
          <namePart>University of Tennessee, Knoxville</namePart>
       </name>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700101">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q7700101">
       <name>
          <namePart>Tennessee Lady Volunteers cross country</namePart>
       </name>
