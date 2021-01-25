@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="pid">ladysoft_1</identifier>
 <identifier type="local">lady-vols-softball_1997</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 1997</title></titleInfo>
 <titleInfo><title>1997 Tennessee Lady Volunteer softball: diamond dreams</title></titleInfo> 
@@ -24,8 +25,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_70</identifier>
 <identifier type="local">lady-vols-softball_1998</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 1998</title></titleInfo>
 <titleInfo><title>1998 Tennessee Lady Volunteer softball: third time's the charm</title></titleInfo> 
@@ -50,8 +51,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_147</identifier>
 <identifier type="local">lady-vols-softball_1999</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 1999</title></titleInfo>
 <titleInfo><title>First class: 1999 Tennessee Lady Vol softball</title></titleInfo> 
@@ -76,8 +77,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_232</identifier>
 <identifier type="local">lady-vols-softball_2000</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2000</title></titleInfo>
 <titleInfo><title>Warehousing a winner! 2000 Tennessee Lady Vol softball</title></titleInfo> 
@@ -102,8 +103,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_325</identifier>
 <identifier type="local">lady-vols-softball_2001</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2001</title></titleInfo>
 <titleInfo><title>2001 Tennessee Lady Vol softball: all you can be!</title></titleInfo> 
@@ -128,8 +129,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_426</identifier>
 <identifier type="local">lady-vols-softball_2002</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2002</title></titleInfo>
 <titleInfo><title>Weekly newcomers = yearly success: 2002 Tennessee Lady Vol softball</title></titleInfo> 
@@ -154,8 +155,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_535</identifier>
 <identifier type="local">lady-vols-softball_2003</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2003</title></titleInfo>
 <titleInfo><title>Lady Vol softball: playing a winning hand 2003</title></titleInfo> 
@@ -180,8 +181,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_648</identifier>
 <identifier type="local">lady-vols-softball_2004</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2004</title></titleInfo>
 <titleInfo><title>2004 Tennessee Lady Vol softball: the orange equation</title></titleInfo> 
@@ -206,8 +207,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_769</identifier>
 <identifier type="local">lady-vols-softball_2005</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2005</title></titleInfo>
 <titleInfo><title>Rising power: 2005 Tennessee Lady Vol softball</title></titleInfo> 
@@ -232,8 +233,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_890</identifier>
 <identifier type="local">lady-vols-softball_2006</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2006</title></titleInfo>
 <titleInfo><title>2006 Tennessee Lady Vol softball: magical possibilities</title></titleInfo> 
@@ -258,8 +259,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_1015</identifier>
 <identifier type="local">lady-vols-softball_2007</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2007</title></titleInfo>
 <titleInfo><title>Speed zone: 2007 Tennessee Lady Vol softball</title></titleInfo> 
@@ -284,8 +285,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_1148</identifier>
 <identifier type="local">lady-vols-softball_2007-05</identifier>
 <titleInfo supplied="yes"><title>NCAA women's college world series program, 2007</title></titleInfo>
 <titleInfo><title>2007 NCAA women's college world series</title></titleInfo> 
@@ -310,8 +311,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_1261</identifier>
 <identifier type="local">lady-vols-softball_2008</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2008</title></titleInfo>
 <titleInfo><title>2008 Tennessee Lady Vol softball: interlocking success</title></titleInfo> 
@@ -336,8 +337,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
+<identifier type="pid">ladysoft_1398</identifier>
 <identifier type="local">lady-vols-softball_2009</identifier>
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers softball media guide, 2009</title></titleInfo>
 <titleInfo><title>Orange power: 2009 Tennessee Lady Vol softball</title></titleInfo> 
@@ -362,5 +363,4 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-</modsCollection>
+</mods></modsCollection>

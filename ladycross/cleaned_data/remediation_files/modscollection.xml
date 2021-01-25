@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="pid">ladycross_1</identifier>
 <identifier type="local">lady-vols-cross-country_1981</identifier>
 <titleInfo><title>1981 Tennessee cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1981</title></titleInfo>
@@ -26,6 +27,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_5</identifier>
 <identifier type="local">lady-vols-cross-country_1982</identifier>
 <titleInfo><title>1982 Tennessee cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1982</title></titleInfo>
@@ -52,6 +54,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_9</identifier>
 <identifier type="local">lady-vols-cross-country_1985</identifier>
 <titleInfo><title>1985 Tennessee cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1985</title></titleInfo>
@@ -78,6 +81,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_410</identifier>
 <identifier type="local">lady-vols-cross-country_1986</identifier>
 <titleInfo><title>1986 Tennessee Lady Vol cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1986</title></titleInfo>
@@ -104,6 +108,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_406</identifier>
 <identifier type="local">lady-vols-cross-country_1987</identifier>
 <titleInfo><title>1987 Tennessee Lady Volunteers cross country </title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1987</title></titleInfo>
@@ -130,6 +135,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_397</identifier>
 <identifier type="local">lady-vols-cross-country_1988</identifier>
 <titleInfo><title>1988 Tennessee Lady Volunteers cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1988</title></titleInfo>
@@ -156,6 +162,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_384</identifier>
 <identifier type="local">lady-vols-cross-country_1989</identifier>
 <titleInfo><title>1988 Tennessee Lady Volunteers cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1989</title></titleInfo>
@@ -182,6 +189,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_367</identifier>
 <identifier type="local">lady-vols-cross-country_1990</identifier>
 <titleInfo><title>1990 Lady Volunteer cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1990</title></titleInfo>
@@ -208,6 +216,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_346</identifier>
 <identifier type="local">lady-vols-cross-country_1991</identifier>
 <titleInfo><title>Lady Volunteer media information</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1991</title></titleInfo>
@@ -234,6 +243,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_321</identifier>
 <identifier type="local">lady-vols-cross-country_1992</identifier>
 <titleInfo><title>1992 Lady Volunteer cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1992</title></titleInfo>
@@ -260,6 +270,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_288</identifier>
 <identifier type="local">lady-vols-cross-country_1993</identifier>
 <titleInfo><title>1993 Lady Volunteer cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1993</title></titleInfo>
@@ -286,6 +297,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_255</identifier>
 <identifier type="local">lady-vols-cross-country_1994</identifier>
 <titleInfo><title>1994 Lady Volunteer cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1994</title></titleInfo>
@@ -312,6 +324,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_222</identifier>
 <identifier type="local">lady-vols-cross-country_1995</identifier>
 <titleInfo><title>1995 Lady Volunteer cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1995</title></titleInfo>
@@ -338,6 +351,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_185</identifier>
 <identifier type="local">lady-vols-cross-country_1996</identifier>
 <titleInfo><title>1996 Lady Volunteer cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1996</title></titleInfo>
@@ -364,6 +378,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_148</identifier>
 <identifier type="local">lady-vols-cross-country_1997</identifier>
 <titleInfo><title>1997 Lady Volunteer cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1997</title></titleInfo>
@@ -390,6 +405,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_107</identifier>
 <identifier type="local">lady-vols-cross-country_1998</identifier>
 <titleInfo><title>1998 Lady Volunteer cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 1998</title></titleInfo>
@@ -416,6 +432,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_62</identifier>
 <identifier type="local">lady-vols-cross-country_1999</identifier>
  
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide</title></titleInfo>
@@ -442,6 +459,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_13</identifier>
 <identifier type="local">lady-vols-cross-country_2000</identifier>
 <titleInfo><title>2000 Lady Volunteer cross country team</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 2000</title></titleInfo>
@@ -468,6 +486,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_609</identifier>
 <identifier type="local">lady-vols-cross-country_2001</identifier>
 <titleInfo><title>2001 Lady Volunteer cross country media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 2001</title></titleInfo>
@@ -494,6 +513,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_548</identifier>
 <identifier type="local">lady-vols-cross-country_2002</identifier>
 <titleInfo><title>2002 Lady Volunteer cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 2002</title></titleInfo>
@@ -520,6 +540,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_483</identifier>
 <identifier type="local">lady-vols-cross-country_2003</identifier>
 <titleInfo><title>2003 Lady Volunteers cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 2003</title></titleInfo>
@@ -546,6 +567,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_414</identifier>
 <identifier type="local">lady-vols-cross-country_2004</identifier>
 <titleInfo><title>2004 Lady Volunteers cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 2004</title></titleInfo>
@@ -572,6 +594,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_873</identifier>
 <identifier type="local">lady-vols-cross-country_2005</identifier>
 <titleInfo><title>2005 Lady Volunteers cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 2005</title></titleInfo>
@@ -598,6 +621,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_804</identifier>
 <identifier type="local">lady-vols-cross-country_2006</identifier>
 <titleInfo><title>2006 Lady Vols cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 2006</title></titleInfo>
@@ -624,6 +648,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_735</identifier>
 <identifier type="local">lady-vols-cross-country_2007</identifier>
 <titleInfo><title>2007 Lady Vol cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 2007</title></titleInfo>
@@ -650,6 +675,7 @@
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
+<identifier type="pid">ladycross_662</identifier>
 <identifier type="local">lady-vols-cross-country_2008</identifier>
 <titleInfo><title>2008 Lady Vol cross country</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers cross country media guide, 2008</title></titleInfo>
