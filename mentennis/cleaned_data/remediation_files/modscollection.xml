@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="local">vols-tennis_1989</identifier>
+<titleInfo><title>Tennessee: 1989 tennis guide</title></titleInfo> 
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers tennis media guide, 1989</title></titleInfo>
+<originInfo><dateIssued>1989</dateIssued><dateIssued encoding="edtf" keyDate="yes">1989</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Volunteers tennis program published in 1989. The team was coached by Mike DePalmer during this athletic season.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="null">null</form><extent>28 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033560"><topic>Court tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q1276910"><name><namePart>DePalmer, Mike</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q107881652"><name><namePart>Tennessee Volunteers tennis</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-tennis_1991</identifier>
+<titleInfo><title>The University of Tennessee Volunteers 1990-1991 tennis guide: vols soar to new heights</title></titleInfo> 
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers tennis media guide, 1991</title></titleInfo>
+<originInfo><dateIssued>1991</dateIssued><dateIssued encoding="edtf" keyDate="yes">1991</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Volunteers tennis program published in 1991. The team was coached by Mike DePalmer during this athletic season.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="null">null</form><extent>32 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033560"><topic>Court tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q1276910"><name><namePart>DePalmer, Mike</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q107881652"><name><namePart>Tennessee Volunteers tennis</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-tennis_1992</identifier>
+<titleInfo><title>1992 University of Tennessee tennis: returning to national prominence</title></titleInfo> 
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers tennis media guide, 1992</title></titleInfo>
+<originInfo><dateIssued>1992</dateIssued><dateIssued encoding="edtf" keyDate="yes">1992</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Volunteers tennis program published in 1992. The team was coached by Mike DePalmer during this athletic season.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="null">null</form><extent>32 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033560"><topic>Court tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q1276910"><name><namePart>DePalmer, Mike</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q107881652"><name><namePart>Tennessee Volunteers tennis</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-tennis_1993</identifier>
+<titleInfo><title>The University of Tennessee Volunteers 1993 men's tennis media guide</title></titleInfo> 
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers tennis media guide, 1993</title></titleInfo>
+<originInfo><dateIssued>1993</dateIssued><dateIssued encoding="edtf" keyDate="yes">1993</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Volunteers tennis program published in 1993. The team was coached by Mike DePalmer during this athletic season.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="null">null</form><extent>32 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033560"><topic>Court tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q1276910"><name><namePart>DePalmer, Mike</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q107881652"><name><namePart>Tennessee Volunteers tennis</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-tennis_1994</identifier>
+<titleInfo><title>1994 University of Tennessee tennis media guide</title></titleInfo> 
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers tennis media guide, 1994</title></titleInfo>
+<originInfo><dateIssued>1994</dateIssued><dateIssued encoding="edtf" keyDate="yes">1994</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Volunteers tennis program published in 1994. The team was coached by Mike DePalmer during this athletic season.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="null">null</form><extent>36 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033560"><topic>Court tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q1276910"><name><namePart>DePalmer, Mike</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q107881652"><name><namePart>Tennessee Volunteers tennis</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-tennis_1995</identifier>
+<titleInfo><title>1995 University of Tennessee tennis media guide</title></titleInfo> 
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers tennis media guide, 1995</title></titleInfo>
+<originInfo><dateIssued>1995</dateIssued><dateIssued encoding="edtf" keyDate="yes">1995</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Volunteers tennis program published in 1995. The team was coached by John Kreis during this athletic season.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="null">null</form><extent>36 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033560"><topic>Court tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q108886222"><name><namePart>Kreis, John</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q107881652"><name><namePart>Tennessee Volunteers tennis</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-tennis_1997</identifier>
+<titleInfo><title>1997 University of Tennessee tennis media guide</title></titleInfo> 
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers tennis media guide, 1997</title></titleInfo>
+<originInfo><dateIssued>1997</dateIssued><dateIssued encoding="edtf" keyDate="yes">1997</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Volunteers tennis program published in 1997. The team was coached by John Kreis during this athletic season.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="null">null</form><extent>44 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033560"><topic>Court tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q108886222"><name><namePart>Kreis, John</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q107881652"><name><namePart>Tennessee Volunteers tennis</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-tennis_1999</identifier>
+<titleInfo><title>1999 tennis guide Tennessee</title></titleInfo> 
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers tennis media guide, 1999</title></titleInfo>
+<originInfo><dateIssued>1999</dateIssued><dateIssued encoding="edtf" keyDate="yes">1999</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Volunteers tennis program published in 1999. The team was coached by Michael Fancutt during this athletic season.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="null">null</form><extent>48 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033560"><topic>Court tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q6830203"><name><namePart>Fancutt, Michael</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q107881652"><name><namePart>Tennessee Volunteers tennis</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">vols-tennis_2004</identifier>
+<titleInfo><title>2004 Volunteers tennis Tennessee</title></titleInfo> 
+<titleInfo supplied="yes"><title>University of Tennessee Volunteers tennis media guide, 2004</title></titleInfo>
+<originInfo><dateIssued>2004</dateIssued><dateIssued encoding="edtf" keyDate="yes">2004</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Volunteers tennis program published in 2004. The team was coached by Michael Fancutt during this athletic season.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="null">null</form><extent>56 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133890"><topic>Tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033560"><topic>Court tennis</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q6830203"><name><namePart>Fancutt, Michael</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q107881652"><name><namePart>Tennessee Volunteers tennis</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Tennis Media Guides</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods></modsCollection>
