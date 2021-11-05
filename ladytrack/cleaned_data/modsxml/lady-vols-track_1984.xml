@@ -53,7 +53,8 @@
          <namePart>University of Tennessee, Knoxville</namePart>
       </name>
    </subject>
-   <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q7700239">
+   <subject authority="wikidata"
+            valueURI="http://www.wikidata.org/entity/Q109417352">
       <name>
          <namePart>Tennessee Lady Volunteers track and field</namePart>
       </name>
