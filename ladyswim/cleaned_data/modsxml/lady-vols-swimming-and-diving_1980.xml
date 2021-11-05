@@ -49,6 +49,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85147519">
       <topic>Women divers</topic>
    </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038575">
+      <topic>Divers</topic>
+   </subject>
    <subject authority="wikidata"
             valueURI="http://www.wikidata.org/entity/Q109379538">
       <name>
