@@ -40,6 +40,8 @@
 
 {{if(isBlank(cells['subject_topic_6'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_6_URI'].value + '"><topic>' + cells['subject_topic_6'].value + '</topic></subject>')}}
 
+{{if(isBlank(cells['subject_topic_7'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_7_URI'].value + '"><topic>' + cells['subject_topic_7'].value + '</topic></subject>')}}
+
 {{if(isBlank(cells['subject_name'].value), '', '<subject authority="wikidata" valueURI="' + cells['subject_name_URI'].value + '"><name><namePart>' + cells['subject_name'].value + '</namePart></name></subject>')}}
 
 {{if(isBlank(cells['subject_name_2'].value), '', '<subject authority="naf" valueURI="' + cells['subject_name_2_URI'].value + '"><name><namePart>' + cells['subject_name_2'].value + '</namePart></name></subject>')}}
