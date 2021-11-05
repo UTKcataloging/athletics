@@ -20,7 +20,7 @@
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
    </originInfo>
-   <abstract>Lady Volunteers track and field guide published in 2006. The team was coached by J.J. Clark during this athletic season.</abstract>
+   <abstract>Lady Volunteers track and field guide published in 2006. The team was coached by J.J.  Clark during this athletic season.</abstract>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
@@ -45,7 +45,7 @@
    <subject authority="wikidata"
             valueURI="http://www.wikidata.org/entity/Q98714305">
       <name>
-         <namePart>Clark, J.J.</namePart>
+         <namePart>Clark, J.J. </namePart>
       </name>
    </subject>
    <subject authority="naf"
@@ -56,7 +56,7 @@
    </subject>
    <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q7700239">
       <name>
-         <namePart>Tennessee Volunteers track and field</namePart>
+         <namePart>Tennessee Lady Volunteers track and field</namePart>
       </name>
    </subject>
    <subject authority="naf"
