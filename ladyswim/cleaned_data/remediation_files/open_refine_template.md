@@ -50,7 +50,7 @@
 
 <typeOfResource>text</typeOfResource>
 
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Swimming and Diving Guides</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Swimming and Diving Media Guides</title></titleInfo></relatedItem>
 
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 
