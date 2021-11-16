@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="pid">mengolf:884</identifier>
 <identifier type="local">vols-golf_1988</identifier>
 
 <titleInfo><title>Tennessee 1988/89 University of Tennessee golf guide</title></titleInfo> 
@@ -21,7 +22,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright – United States</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:855</identifier>
 <identifier type="local">vols-golf_1991</identifier>
 <identifier type="pan">E01-8625-01-001-91</identifier>
 <titleInfo><title>Tennessee 1992 University of Tennessee Volunteers golf guide</title></titleInfo> 
@@ -43,7 +47,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:826</identifier>
 <identifier type="local">vols-golf_1992</identifier>
 <identifier type="pan">E01-8625-01-001-93</identifier>
 <titleInfo><title>1992/93 men's golf media guide: Tennessee</title></titleInfo> 
@@ -65,7 +72,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:797</identifier>
 <identifier type="local">vols-golf_1993</identifier>
 <identifier type="pan">E01-8625-01-001-94</identifier>
 <titleInfo><title>Tennessee 1993-94 men's golf media guide</title></titleInfo> 
@@ -87,7 +97,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:768</identifier>
 <identifier type="local">vols-golf_1994</identifier>
 <identifier type="pan">E01-8625-01-001-95</identifier>
 <titleInfo><title>Tennessee 1995 University of Tennessee golf guide</title></titleInfo> 
@@ -109,7 +122,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:739</identifier>
 <identifier type="local">vols-golf_1995</identifier>
 <identifier type="pan">E01-8625-01-001-96</identifier>
 <titleInfo><title>Tennessee 1995-96 men's gold media guide</title></titleInfo> 
@@ -131,7 +147,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:706</identifier>
 <identifier type="local">vols-golf_1996</identifier>
 <identifier type="pan">E01-8625-01-001-97</identifier>
 <titleInfo><title>Tennessee 1996-97 men's golf media guide</title></titleInfo> 
@@ -153,7 +172,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:665</identifier>
 <identifier type="local">vols-golf_1997</identifier>
 <identifier type="pan">E01-8625-01-001-98</identifier>
 <titleInfo><title>Tennessee 1997-98 golf guide</title></titleInfo> 
@@ -175,7 +197,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:620</identifier>
 <identifier type="local">vols-golf_1998</identifier>
 <identifier type="pan">E01-8625-01-001-99</identifier>
 <titleInfo><title>1998-99 men's golf guide: Tennessee</title></titleInfo> 
@@ -197,7 +222,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:571</identifier>
 <identifier type="local">vols-golf_1999</identifier>
 <identifier type="pan">E01-8625-01-001-00</identifier>
 <titleInfo><title>1999-2000 men's golf: Tennessee</title></titleInfo> 
@@ -219,7 +247,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:522</identifier>
 <identifier type="local">vols-golf_2000</identifier>
 <identifier type="pan">E01-8625-01-001-01</identifier>
 <titleInfo><title>Tennessee 2001 men's golf</title></titleInfo> 
@@ -241,7 +272,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:469</identifier>
 <identifier type="local">vols-golf_2001</identifier>
 <identifier type="pan">E01-8625-01-001-02</identifier>
 <titleInfo><title>Tennessee 2002 men's golf</title></titleInfo> 
@@ -263,7 +297,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:416</identifier>
 <identifier type="local">vols-golf_2002</identifier>
 <identifier type="pan">E01-8625-01-001-03</identifier>
 <titleInfo><title>2002-03 University of Tennessee Volunteers golf guide</title></titleInfo> 
@@ -285,7 +322,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:359</identifier>
 <identifier type="local">vols-golf_2003</identifier>
 <identifier type="pan">E01-8625-01-001-04</identifier>
 <titleInfo><title>Tennessee 2003-04 men's golf</title></titleInfo> 
@@ -307,7 +347,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:298</identifier>
 <identifier type="local">vols-golf_2004</identifier>
 <identifier type="pan">E01-8625-01-001-05</identifier>
 <titleInfo><title>2004-05 Volunteer golf: major intentions</title></titleInfo> 
@@ -329,7 +372,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:245</identifier>
 <identifier type="local">vols-golf_2005</identifier>
 <identifier type="pan">E01-8601-004-013-06</identifier>
 <titleInfo><title>2005-06 Volunteers golf</title></titleInfo> 
@@ -351,7 +397,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:196</identifier>
 <identifier type="local">vols-golf_2006</identifier>
 <identifier type="pan">E01-8601-004-013-06</identifier>
 <titleInfo><title>2006-07 Volunteer golf</title></titleInfo> 
@@ -373,7 +422,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:135</identifier>
 <identifier type="local">vols-golf_2007</identifier>
 <identifier type="pan">E01-8601-004-013-06</identifier>
 <titleInfo><title>2007-08 Volunteers golf</title></titleInfo> 
@@ -395,7 +447,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:66</identifier>
 <identifier type="local">vols-golf_2008</identifier>
 <identifier type="pan">E01-8601-004-013-09</identifier>
 <titleInfo><title>2008-09 Volunteers golf</title></titleInfo> 
@@ -417,7 +472,10 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+
+<mods>
+<identifier type="pid">mengolf:1</identifier>
 <identifier type="local">vols-golf_2009</identifier>
 
 <titleInfo><title>Volunteers Tennessee 2009-10 golf</title></titleInfo> 
@@ -425,7 +483,7 @@
 <originInfo><dateIssued>2009</dateIssued><dateIssued encoding="edtf" keyDate="yes">2009</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Volunteers golf program published in 2009. The team was coached by Jim Kelson during this athletic season.</abstract>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>64 pages</extent></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklet</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>64 pages</extent></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh89000289"><topic>Short game (Golf)</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85055804"><topic>Golf</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
@@ -439,4 +497,5 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods></modsCollection>
+</mods>
+</modsCollection>
