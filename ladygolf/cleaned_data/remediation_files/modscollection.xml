@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods>
+<identifier type="pid">ladygolf:1701</identifier>
 <identifier type="local">lady-vols-golf_1992</identifier>
 
 <identifier type="pan">E010245-01693</identifier>
@@ -45,6 +47,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1660</identifier>
 <identifier type="local">lady-vols-golf_1993</identifier>
 
 
@@ -90,6 +93,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1615</identifier>
 <identifier type="local">lady-vols-golf_1994</identifier>
 
 <identifier type="pan">E010245-01695</identifier>
@@ -135,6 +139,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1570</identifier>
 <identifier type="local">lady-vols-golf_1995</identifier>
 
 <identifier type="pan">E010245-01696</identifier>
@@ -180,6 +185,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1525</identifier>
 <identifier type="local">lady-vols-golf_1996</identifier>
 
 <identifier type="pan">E010245-01697</identifier>
@@ -225,6 +231,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1480</identifier>
 <identifier type="local">lady-vols-golf_1997</identifier>
 
 <identifier type="pan">E010245-01698</identifier>
@@ -270,6 +277,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1431</identifier>
 <identifier type="local">lady-vols-golf_1998</identifier>
 
 <identifier type="pan">E01-0245-61-012-99</identifier>
@@ -315,6 +323,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1379</identifier>
 <identifier type="local">lady-vols-golf_1999</identifier>
 
 <identifier type="pan">E01-0245-61-012-00</identifier>
@@ -360,6 +369,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1322</identifier>
 <identifier type="local">lady-vols-golf_2000</identifier>
 
 <identifier type="pan">E01-0245-61-012-01</identifier>
@@ -405,6 +415,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1302</identifier>
 <identifier type="local">lady-vols-golf_2000-05</identifier>
 
 
@@ -416,7 +427,7 @@
 <originInfo><dateIssued>2000-05</dateIssued><dateIssued encoding="edtf" keyDate="yes">2000-05</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 
-    <abstract>Lady Volunteers media supplement for the 2000 NCAA Women's Golf Championships. The team was led by coach Judi Pavón during this athletic season.</abstract>
+<abstract>Lady Volunteers media supplement for the 2000 NCAA Women's Golf Championships. The team was led by coach Judi Pavón during this athletic season.</abstract>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>19 pages</extent></physicalDescription>
 
@@ -450,6 +461,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1237</identifier>
 <identifier type="local">lady-vols-golf_2001</identifier>
 
 <identifier type="pan">E01-0245-061-012-02</identifier>
@@ -495,6 +507,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1172</identifier>
 <identifier type="local">lady-vols-golf_2002</identifier>
 
 <identifier type="pan">E01-0245-061-012-03</identifier>
@@ -540,6 +553,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1108</identifier>
 <identifier type="local">lady-vols-golf_2003</identifier>
 
 <identifier type="pan">E01-0245-061-04</identifier>
@@ -585,6 +599,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1039</identifier>
 <identifier type="local">lady-vols-golf_2004</identifier>
 
 <identifier type="pan">E010245013-61-05</identifier>
@@ -630,6 +645,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:983</identifier>
 <identifier type="local">lady-vols-golf_2005-05</identifier>
 
 
@@ -641,7 +657,7 @@
 <originInfo><dateIssued>2005-05</dateIssued><dateIssued encoding="edtf" keyDate="yes">2005-05</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 
-    <abstract>Lady Volunteers media supplement for the 2005 NCAA Women's Golf Championships. The team was led by coach Judi Pavón during this athletic season.</abstract>
+<abstract>Lady Volunteers media supplement for the 2005 NCAA Women's Golf Championships. The team was led by coach Judi Pavón during this athletic season.</abstract>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>55 pages</extent></physicalDescription>
 
@@ -675,6 +691,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1888</identifier>
 <identifier type="local">lady-vols-golf_2006</identifier>
 
 <identifier type="pan">E1-0245-061-012-07</identifier>
@@ -720,6 +737,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1811</identifier>
 <identifier type="local">lady-vols-golf_2007</identifier>
 
 <identifier type="pan">E1-0245-061-012-08</identifier>
@@ -765,6 +783,7 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods><mods>
+<identifier type="pid">ladygolf:1734</identifier>
 <identifier type="local">lady-vols-golf_2008</identifier>
 
 <identifier type="pan">E1-0245-061-005-09</identifier>
