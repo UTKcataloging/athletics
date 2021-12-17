@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<mods>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
 <identifier type="local">lady-vols-track_1978-05</identifier>
 
+<identifier type="pid">ladytrack:2506</identifier>
 <titleInfo><title>1978 AIAW national track/field championships May 25-27, 1978: Tom Black Track, University of Tennessee</title></titleInfo> 
 <titleInfo supplied="yes"><title>AIAW National Championships program, May 1978</title></titleInfo>
-<originInfo><dateIssued>1978-05</dateIssued><dateIssued encoding="edtf" keyDate="yes">1978-05</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+<originInfo><dateIssued>May 1978</dateIssued><dateIssued encoding="edtf" keyDate="yes">May 1978</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Program for the 1978 AIAW National Championships with schedule of events and messages from the meet director and AIAW president.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>64 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -25,19 +27,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1982</identifier>
 
+<identifier type="pid">ladytrack:2481</identifier>
 <titleInfo><title>1982 track and field: national champions</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1982</title></titleInfo>
 <originInfo><dateIssued>1982</dateIssued><dateIssued encoding="edtf" keyDate="yes">1982</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1982. The team was coached by Terry Crawford during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>24 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98805976"><name><namePart>Crawford, Terry</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -47,19 +52,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1983</identifier>
 
+<identifier type="pid">ladytrack:2403</identifier>
 <titleInfo><title>1983 Lady Vols: track and field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1983</title></titleInfo>
 <originInfo><dateIssued>1983</dateIssued><dateIssued encoding="edtf" keyDate="yes">1983</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1983. The team was coached by Terry Crawford during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>40 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98805976"><name><namePart>Crawford, Terry</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -69,19 +77,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1983-03</identifier>
 
+<identifier type="pid">ladytrack:2444</identifier>
 <titleInfo><title>1983 NCAA indoor track national championships, Pontiac silverdome, March 11-12: Tennessee Lady Volunteers national qualifiers</title></titleInfo> 
 <titleInfo supplied="yes"><title>NCAA Indoor Track National Championships program, March 1983</title></titleInfo>
 <originInfo><dateIssued>1983-03</dateIssued><dateIssued encoding="edtf" keyDate="yes">1983-03</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Program with bios of qualifiers for 1983 NCAA Indoor Track National Championships. The team was coached by Terry Crawford during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>36 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98805976"><name><namePart>Crawford, Terry</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -91,19 +102,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1984</identifier>
 
+<identifier type="pid">ladytrack:2362</identifier>
 <titleInfo><title>1984 Tennessee Lady Vols track and field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1984</title></titleInfo>
 <originInfo><dateIssued>1984</dateIssued><dateIssued encoding="edtf" keyDate="yes">1984</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1984. The team was coached by Terry Crawford during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>40 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98805976"><name><namePart>Crawford, Terry</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -113,19 +127,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1985</identifier>
 
+<identifier type="pid">ladytrack:2313</identifier>
 <titleInfo><title>1985 University of Tennessee track and field media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1985</title></titleInfo>
 <originInfo><dateIssued>1985</dateIssued><dateIssued encoding="edtf" keyDate="yes">1985</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1985. The team was coached by Gary Schwartz during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>48 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98806737"><name><namePart>Schwartz, Gary</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -135,19 +152,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1986</identifier>
 <identifier type="pan">E01-0245-015-86</identifier>
+<identifier type="pid">ladytrack:2268</identifier>
 <titleInfo><title>1986 University of Tennessee Lady Volunteers track &amp; field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1986</title></titleInfo>
 <originInfo><dateIssued>1986</dateIssued><dateIssued encoding="edtf" keyDate="yes">1986</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1986. The team was coached by Gary Schwartz during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>44 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98806737"><name><namePart>Schwartz, Gary</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -157,19 +177,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1987</identifier>
 <identifier type="pan">E01-0245-011-87</identifier>
+<identifier type="pid">ladytrack:2223</identifier>
 <titleInfo><title>Tennessee Lady Vol track &amp; field: 1987 media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1987</title></titleInfo>
 <originInfo><dateIssued>1987</dateIssued><dateIssued encoding="edtf" keyDate="yes">1987</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1987. The team was coached by Gary Schwartz during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>44 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98806737"><name><namePart>Schwartz, Gary</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -179,19 +202,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1988</identifier>
 <identifier type="pan">E01-0245-012-88</identifier>
+<identifier type="pid">ladytrack:2178</identifier>
 <titleInfo><title>1988 Tennessee Lady Vol track &amp; field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1988</title></titleInfo>
 <originInfo><dateIssued>1988</dateIssued><dateIssued encoding="edtf" keyDate="yes">1988</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1988. The team was coached by Gary Schwartz during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>44 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98806737"><name><namePart>Schwartz, Gary</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -201,19 +227,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1989</identifier>
 <identifier type="pan">E01-0245-012-89</identifier>
+<identifier type="pid">ladytrack:2129</identifier>
 <titleInfo><title>University of Tennessee Lady Volunteers 1989 track and field gettin' in gear</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1989</title></titleInfo>
 <originInfo><dateIssued>1989</dateIssued><dateIssued encoding="edtf" keyDate="yes">1989</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1989. The team was coached by Dorothy Doolittle during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>48 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q85304029"><name><namePart>Doolittle, Dorothy</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -223,19 +252,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1990</identifier>
 <identifier type="pan">E01-0245-004-90</identifier>
+<identifier type="pid">ladytrack:2076</identifier>
 <titleInfo><title>1990 Tennessee Lady Volunteer track &amp; field media guide: new kids in the blocks</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1990</title></titleInfo>
 <originInfo><dateIssued>1990</dateIssued><dateIssued encoding="edtf" keyDate="yes">1990</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1990. The team was coached by Dorothy Doolittle during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>52 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q85304029"><name><namePart>Doolittle, Dorothy</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -245,19 +277,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1991</identifier>
 <identifier type="pan">E01-0245-011-91</identifier>
+<identifier type="pid">ladytrack:2023</identifier>
 <titleInfo><title>1991 Tennessee track and field: going with the flow</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1991</title></titleInfo>
 <originInfo><dateIssued>1991</dateIssued><dateIssued encoding="edtf" keyDate="yes">1991</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1991. The team was coached by Dorothy Doolittle during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>52 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q85304029"><name><namePart>Doolittle, Dorothy</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -267,19 +302,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1992</identifier>
 <identifier type="pan">E01-0245-012-92</identifier>
+<identifier type="pid">ladytrack:1970</identifier>
 <titleInfo><title>Tennessee Lady Volunteers 1992 track &amp; field media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1992</title></titleInfo>
 <originInfo><dateIssued>1992</dateIssued><dateIssued encoding="edtf" keyDate="yes">1992</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1992. The team was coached by Dorothy Doolittle during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>52 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q85304029"><name><namePart>Doolittle, Dorothy</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -289,19 +327,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1993</identifier>
 <identifier type="pan">E01-0245-012-93</identifier>
+<identifier type="pid">ladytrack:1901</identifier>
 <titleInfo><title>1993 Tennessee Lady Volunteers track &amp; field media guide: from start to finish</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1993</title></titleInfo>
 <originInfo><dateIssued>1993</dateIssued><dateIssued encoding="edtf" keyDate="yes">1993</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1993. The team was coached by Dorothy Doolittle during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>68 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q85304029"><name><namePart>Doolittle, Dorothy</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -311,19 +352,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1994</identifier>
 <identifier type="pan">E01-0245-012-94</identifier>
+<identifier type="pid">ladytrack:1832</identifier>
 <titleInfo><title>The University of Tennessee 1994 Lady Volunteers track &amp; field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1994</title></titleInfo>
 <originInfo><dateIssued>1994</dateIssued><dateIssued encoding="edtf" keyDate="yes">1994</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1994. The team was coached by Dorothy Doolittle during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>68 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q85304029"><name><namePart>Doolittle, Dorothy</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -333,19 +377,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1995</identifier>
 <identifier type="pan">E01-0245-012-95</identifier>
+<identifier type="pid">ladytrack:1751</identifier>
 <titleInfo><title>The University of Tennessee Lady volz track and field: there's no place like home</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1995</title></titleInfo>
 <originInfo><dateIssued>1995</dateIssued><dateIssued encoding="edtf" keyDate="yes">1995</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1995. The team was coached by Dorothy Doolittle during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>80 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q85304029"><name><namePart>Doolittle, Dorothy</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -355,19 +402,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1996</identifier>
 <identifier type="pan">E01-0245-012-96</identifier>
+<identifier type="pid">ladytrack:1674</identifier>
 <titleInfo><title>The Umiversity of Tennessee 1996 Lady Volunteers track &amp; field media guide</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1996</title></titleInfo>
 <originInfo><dateIssued>1996</dateIssued><dateIssued encoding="edtf" keyDate="yes">1996</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1996. The team was coached by Dorothy Doolittle during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>76 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q85304029"><name><namePart>Doolittle, Dorothy</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -377,19 +427,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1997</identifier>
 <identifier type="pan">E01-0245-012-97</identifier>
+<identifier type="pid">ladytrack:1605</identifier>
 <titleInfo><title>1997 Tennessee Lady Vols track &amp; field: focus!</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1997</title></titleInfo>
 <originInfo><dateIssued>1997</dateIssued><dateIssued encoding="edtf" keyDate="yes">1997</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1997. The team was coached by Dorothy Doolittle during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>68 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q85304029"><name><namePart>Doolittle, Dorothy</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -399,19 +452,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1998</identifier>
 <identifier type="pan">E01-0245-61-010-98</identifier>
+<identifier type="pid">ladytrack:1536</identifier>
 <titleInfo><title>Tennessee 1998 Lady Vol track &amp; field: back on track</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1998</title></titleInfo>
 <originInfo><dateIssued>1998</dateIssued><dateIssued encoding="edtf" keyDate="yes">1998</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1998. The team was coached by Myrtle Ferguson during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>68 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q108839345"><name><namePart>Ferguson, Myrtle</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -421,19 +477,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_1999</identifier>
 <identifier type="pan">E01-0245-61-010-99</identifier>
+<identifier type="pid">ladytrack:1459</identifier>
 <titleInfo><title>Full speed ahead: 1999 Tennessee Lady Vol track and field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 1999</title></titleInfo>
 <originInfo><dateIssued>1999</dateIssued><dateIssued encoding="edtf" keyDate="yes">1999</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 1999. The team was coached by Myrtle Ferguson during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>76 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q108839345"><name><namePart>Ferguson, Myrtle</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -443,19 +502,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2000</identifier>
 <identifier type="pan">E01-0245-61-010-00</identifier>
+<identifier type="pid">ladytrack:1378</identifier>
 <titleInfo><title>Tennessee star track 2000: metamorphosis!</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2000</title></titleInfo>
 <originInfo><dateIssued>2000</dateIssued><dateIssued encoding="edtf" keyDate="yes">2000</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 2000. The team was coached by Myrtle Ferguson during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>80 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q108839345"><name><namePart>Ferguson, Myrtle</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -465,19 +527,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2001</identifier>
 <identifier type="pan">E01-0245-61-010-01</identifier>
+<identifier type="pid">ladytrack:1291</identifier>
 <titleInfo><title>Facing the challenge together: 2001 Tennessee Lady Vol track &amp; field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2001</title></titleInfo>
 <originInfo><dateIssued>2001</dateIssued><dateIssued encoding="edtf" keyDate="yes">2001</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 2001. The team was coached by Myrtle Ferguson during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>86 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q108839345"><name><namePart>Ferguson, Myrtle</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -487,19 +552,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2002</identifier>
 <identifier type="pan">E01-0245-061-010-02</identifier>
+<identifier type="pid">ladytrack:1194</identifier>
 <titleInfo><title>Energized: 2002 Tennessee Lady Vol track &amp; field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2002</title></titleInfo>
 <originInfo><dateIssued>2002</dateIssued><dateIssued encoding="edtf" keyDate="yes">2002</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
 <abstract>Lady Volunteers track and field guide published in 2002. The team was coached by Myrtle Ferguson during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>96 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q108839345"><name><namePart>Ferguson, Myrtle</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -509,19 +577,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2003</identifier>
 <identifier type="pan">E01-0245-061-010-03</identifier>
+<identifier type="pid">ladytrack:1085</identifier>
 <titleInfo><title>2003 Tennessee Lady Vol track &amp; field: history in the making</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2003</title></titleInfo>
 <originInfo><dateIssued>2003</dateIssued><dateIssued encoding="edtf" keyDate="yes">2003</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
-<abstract>Lady Volunteers track and field guide published in 2003. The team was coached by J.J.  Clark during this athletic season.</abstract>
+<abstract>Lady Volunteers track and field guide published in 2003. The team was coached by J.J. Clark during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>108 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
-<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J. </namePart></name></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J.</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -531,19 +602,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2004</identifier>
 <identifier type="pan">E01-0245-061-010-04</identifier>
+<identifier type="pid">ladytrack:972</identifier>
 <titleInfo><title>Tennessee 2004 Lady Vol track &amp; field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2004</title></titleInfo>
 <originInfo><dateIssued>2004</dateIssued><dateIssued encoding="edtf" keyDate="yes">2004</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
-<abstract>Lady Volunteers track and field guide published in 2004. The team was coached by J.J.  Clark during this athletic season.</abstract>
+<abstract>Lady Volunteers track and field guide published in 2004. The team was coached by J.J. Clark during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>112 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
-<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J. </namePart></name></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J.</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -553,19 +627,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2005</identifier>
 <identifier type="pan">E01-0245-061-010-05</identifier>
+<identifier type="pid">ladytrack:855</identifier>
 <titleInfo><title>2005 Tennessee Lady Vols track &amp; field: a cut above</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2005</title></titleInfo>
 <originInfo><dateIssued>2005</dateIssued><dateIssued encoding="edtf" keyDate="yes">2005</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
-<abstract>Lady Volunteers track and field guide published in 2005. The team was coached by J.J.  Clark during this athletic season.</abstract>
+<abstract>Lady Volunteers track and field guide published in 2005. The team was coached by J.J. Clark during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>116 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
-<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J. </namePart></name></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J.</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -575,19 +652,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2006</identifier>
 <identifier type="pan">E01-0245-061-010-06</identifier>
+<identifier type="pid">ladytrack:734</identifier>
 <titleInfo><title>Actions speak louder than words: 2006 Tennessee Lady Volunteer track &amp; field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2006</title></titleInfo>
 <originInfo><dateIssued>2006</dateIssued><dateIssued encoding="edtf" keyDate="yes">2006</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
-<abstract>Lady Volunteers track and field guide published in 2006. The team was coached by J.J.  Clark during this athletic season.</abstract>
+<abstract>Lady Volunteers track and field guide published in 2006. The team was coached by J.J. Clark during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>120 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
-<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J. </namePart></name></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J.</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -597,19 +677,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2007</identifier>
 <identifier type="pan">E01-0245-061-003-07</identifier>
+<identifier type="pid">ladytrack:609</identifier>
 <titleInfo><title>Tennessee 2007 Lady Vol track &amp; field: developing champions</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2007</title></titleInfo>
 <originInfo><dateIssued>2007</dateIssued><dateIssued encoding="edtf" keyDate="yes">2007</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
-<abstract>Lady Volunteers track and field guide published in 2007. The team was coached by J.J.  Clark during this athletic season.</abstract>
+<abstract>Lady Volunteers track and field guide published in 2007. The team was coached by J.J. Clark during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>124 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
-<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J. </namePart></name></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J.</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -619,19 +702,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2008</identifier>
 <identifier type="pan">E01-0245-061-003-08</identifier>
+<identifier type="pid">ladytrack:484</identifier>
 <titleInfo><title>Tennessee 2008 Lady Vol track &amp; field: keep the fire burning</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2008</title></titleInfo>
 <originInfo><dateIssued>2008</dateIssued><dateIssued encoding="edtf" keyDate="yes">2008</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
-<abstract>Lady Volunteers track and field guide published in 2008. The team was coached by J.J.  Clark during this athletic season.</abstract>
+<abstract>Lady Volunteers track and field guide published in 2008. The team was coached by J.J. Clark during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>124 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
-<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J. </namePart></name></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J.</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -641,19 +727,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2009</identifier>
 <identifier type="pan">E01-0245-061-007-09</identifier>
+<identifier type="pid">ladytrack:359</identifier>
 <titleInfo><title>Tennessee 2009 Lady Volunteers track &amp; field: strong suit</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Lady Volunteers track and field media guide, 2009</title></titleInfo>
 <originInfo><dateIssued>2009</dateIssued><dateIssued encoding="edtf" keyDate="yes">2009</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
-<abstract>Lady Volunteers track and field guide published in 2009. The team was coached by J.J.  Clark during this athletic season.</abstract>
+<abstract>Lady Volunteers track and field guide published in 2009. The team was coached by J.J. Clark during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>124 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
-<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J. </namePart></name></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J.</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -663,19 +752,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2011</identifier>
 <identifier type="pan">E01-8601004-016-11</identifier>
+<identifier type="pid">ladytrack:174</identifier>
 <titleInfo><title>2011 track &amp; field media guide: Tennessee</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers and Lady Volunteers track and field media guide, 2011</title></titleInfo>
 <originInfo><dateIssued>2011</dateIssued><dateIssued encoding="edtf" keyDate="yes">2011</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
-<abstract>Lady Volunteers track and field guide published in 2011. The team was coached by J.J.  Clark during this athletic season.</abstract>
+<abstract>Volunteers and Lady Volunteers track and field guide published in 2011. The team was coached by J.J. Clark during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>184 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
-<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J. </namePart></name></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J.</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
@@ -685,19 +777,22 @@
 </mods><mods>
 <identifier type="local">lady-vols-track_2012</identifier>
 <identifier type="pan">E01-8601004-016-12</identifier>
+<identifier type="pid">ladytrack:1</identifier>
 <titleInfo><title>Tennessee 2012 track &amp; field</title></titleInfo> 
 <titleInfo supplied="yes"><title>University of Tennessee Volunteers and Lady Volunteers track and field media guide, 2012</title></titleInfo>
 <originInfo><dateIssued>2012</dateIssued><dateIssued encoding="edtf" keyDate="yes">2012</dateIssued><publisher>University of Tennessee, Knoxville. Department of Athletics</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
 </place></originInfo>
-<abstract>Lady Volunteers track and field guide published in 2012. The team was coached by J.J.  Clark during this athletic season.</abstract>
+<abstract>Volunteers and Lady Volunteers track and field guide published in 2012. The team was coached by J.J. Clark during this athletic season.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form><extent>172 pages</extent></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004014062"><topic>All-around (Track and field)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683"><topic>Track and field</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434"><topic>College sports for women</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147726"><topic>Women track and field athletes</topic></subject>
-<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J. </namePart></name></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442"><topic>Track and field athletes</topic></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q98714305"><name><namePart>Clark, J.J.</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
 <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109417352"><name><namePart>Tennessee Lady Volunteers track and field</namePart></name></subject>
+<subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q7700239"><name><namePart>Tennessee Volunteers track and field</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 <typeOfResource>text</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Lady Volunteers Track and Field Media Guides</title></titleInfo></relatedItem>
