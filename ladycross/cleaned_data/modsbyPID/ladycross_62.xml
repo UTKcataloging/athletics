@@ -19,7 +19,7 @@
       </place>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="ttp://vocab.getty.edu/aat/300311670">booklets</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
       <extent>44 pages</extent>
    </physicalDescription>
